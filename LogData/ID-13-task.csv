@@ -1,0 +1,14 @@
+Time,Block,TaskCount,State
+1688226586073,training,0,start
+1688226593383,training,0,end
+1688226596140,training,1,start
+1688226600144,training,1,end
+1688226602901,training,2,start
+1688226606903,training,2,end
+1688226609659,training,3,start
+1688226613661,training,3,end
+1688226616168,training,4,start
+1688226620169,training,4,end
+1688226622424,training,5,start
+1688226626425,training,5,end
+1688226665535,AR-difficult,1,start

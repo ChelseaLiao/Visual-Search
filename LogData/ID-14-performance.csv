@@ -1,0 +1,7 @@
+Time,Block,TaskCount,Target,ClickedItem,IsTarget
+1688226949375,training,0,Red Cube,Missed,False
+1688226956132,training,1,Red Sphere,Missed,False
+1688226962890,training,2,Yellow Cylinder,Missed,False
+1688226969397,training,3,Purple Cube,Missed,False
+1688226975656,training,4,Purple Cylinder,Missed,False
+1688226981914,training,5,Blue Cube,Missed,False

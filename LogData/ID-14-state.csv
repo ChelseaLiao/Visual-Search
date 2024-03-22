@@ -1,0 +1,8 @@
+Time,Block,State
+1688226912699,ClosingEyes,start
+1688226917700,ClosingEyes,end
+1688226920188,Resting,start
+1688226925190,Resting,end
+1688226943608,training,start
+1688226982912,training,end
+1688227010485,AV-easy,start

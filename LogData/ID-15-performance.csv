@@ -1,0 +1,27 @@
+Time,Block,TaskCount,Target,ClickedItem,IsTarget
+1688227747580,training,0,Yellow Pyramids,Missed,False
+1688227754337,training,1,Blue Cylinder,Missed,False
+1688227760847,training,2,Blue Pyramids,Missed,False
+1688227767103,training,3,Blue Pyramids,Missed,False
+1688227773611,training,4,Purple Cylinder,Missed,False
+1688227780119,training,5,Purple Pyramids,Missed,False
+1688227805695,AV-difficult,0,Purple Sphere,Missed,False
+1688227813452,AV-difficult,1,Blue Cylinder,Missed,False
+1688227820962,AV-difficult,2,Red Cylinder,Missed,False
+1688227828719,AV-difficult,3,Yellow Pyramids,Missed,False
+1688227836480,AV-difficult,4,Yellow Cube,Missed,False
+1688227844237,AV-difficult,5,Purple Sphere,Missed,False
+1688832367934,training,1,Blue Sphere,Missed,False
+1688832374197,training,2,Purple Cylinder,Missed,False
+1688848536943,training,1,Purple Cylinder,Missed,False
+1688848543705,training,2,Red Cylinder,Missed,False
+1688848550215,training,3,Blue Sphere,Missed,False
+1688848556724,training,4,Red Cylinder,Missed,False
+1688848562983,training,5,Red Sphere,Missed,False
+1688927552770,training,1,Yellow Pyramids,Missed,False
+1688927744818,training,1,Yellow Sphere,Missed,False
+1689105702557,training,1,Blue Pyramids,Missed,False
+1689105709315,training,2,Blue Cube,Missed,False
+1689105715825,training,3,Blue Cube,Missed,False
+1689105722586,training,4,Yellow Cylinder,Missed,False
+1689105729344,training,5,Blue Cube,Missed,False

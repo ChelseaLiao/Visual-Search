@@ -1,0 +1,12 @@
+Block,State,Time
+ClosingEyes,start,1687294988404
+ClosingEyes,end,1687294993404
+Block,State,Time
+Resting,start,1687294999482
+Resting,end,1687295004483
+Block,State,Time
+training,start,1687295016733
+training,end,1687295021736
+training,start,1687295024241
+training,end,1687295029243
+training,start,1687295031499

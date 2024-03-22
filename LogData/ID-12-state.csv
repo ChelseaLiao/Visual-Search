@@ -1,0 +1,9 @@
+Time,Block,State
+1688224471976,ClosingEyes,start
+1688224476977,ClosingEyes,end
+1688224478265,Resting,start
+1688224483265,Resting,end
+1688224484926,training,start
+1688224523734,training,end
+1688224530564,AR-easy,start
+1688224570629,AR-easy,end

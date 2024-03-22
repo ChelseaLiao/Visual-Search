@@ -1,0 +1,1444 @@
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+AR-difficult,0,Purple Cylinder,Other Object,(1.1, 1.5, 0.2)
+AR-difficult,0,Purple Cube,Other Object,(2.5, 2.1, 0.4)
+AR-difficult,0,Purple Cube,Other Object,(0.6, 0.9, 0.9)
+AR-difficult,0,Purple Cube,Other Object,(1.4, 0.7, 1.1)
+AR-difficult,0,Purple Pyramids,Other Object,(1.9, 1.1, 1.0)
+AR-difficult,0,Purple Pyramids,Other Object,(0.9, 1.3, -0.4)
+AR-difficult,0,Purple Pyramids,Other Object,(1.1, 0.8, 0.1)
+AR-difficult,0,Red Cylinder,Other Object,(1.6, 1.1, -0.8)
+AR-difficult,0,Blue Cylinder,Other Object,(2.4, 0.2, -0.9)
+AR-difficult,0,Red Cylinder,Other Object,(1.7, 1.4, 0.0)
+AR-difficult,0,Red Cylinder,Other Object,(2.3, 1.1, -0.1)
+AR-difficult,0,Red Cylinder,Other Object,(2.7, 0.2, 0.7)
+AR-difficult,0,Blue Cylinder,Other Object,(1.7, 0.7, 0.7)
+AR-difficult,0,Blue Cube,Other Object,(2.0, 0.3, 0.9)
+AR-difficult,0,Yellow Pyramids,Other Object,(2.1, 2.0, -0.5)
+AR-difficult,0,Red Pyramids,Other Object,(2.7, 1.9, 1.7)
+AR-difficult,0,Yellow Sphere,Other Object,(2.4, 0.8, 1.6)
+AR-difficult,0,Yellow Sphere,Other Object,(2.8, 1.4, 1.8)
+AR-difficult,0,Blue Sphere,Other Object,(2.8, 2.0, -0.2)
+AR-difficult,1,Yellow Pyramids,Other Object,(1.1, 0.7, 0.9)
+AR-difficult,1,Yellow Cube,Other Object,(2.3, 1.2, -0.8)
+AR-difficult,1,Yellow Sphere,Other Object,(2.3, 1.3, 0.1)
+AR-difficult,1,Yellow Sphere,Other Object,(2.1, 1.7, 1.4)
+AR-difficult,1,Yellow Cube,Other Object,(2.6, 0.4, -1.1)
+AR-difficult,1,Yellow Sphere,Other Object,(2.0, 2.1, 1.0)
+AR-difficult,1,Yellow Sphere,Other Object,(2.7, 0.3, 1.0)
+AR-difficult,1,Red Pyramids,Other Object,(2.6, 0.7, 0.8)
+AR-difficult,1,Purple Pyramids,Other Object,(1.7, 1.3, -0.9)
+AR-difficult,1,Blue Pyramids,Other Object,(2.1, 1.4, 1.0)
+AR-difficult,1,Purple Pyramids,Other Object,(2.6, 1.9, -1.1)
+AR-difficult,1,Red Pyramids,Other Object,(0.8, 1.8, 0.0)
+AR-difficult,1,Blue Pyramids,Other Object,(1.6, 1.4, 0.3)
+AR-difficult,1,Blue Cylinder,Other Object,(2.5, 0.5, 1.7)
+AR-difficult,1,Purple Cylinder,Other Object,(2.0, 0.6, -0.3)
+AR-difficult,1,Purple Cube,Other Object,(1.4, 1.5, 1.1)
+AR-difficult,1,Blue Sphere,Other Object,(2.8, 1.3, 1.4)
+AR-difficult,1,Blue Sphere,Other Object,(2.6, 2.0, 0.3)
+AR-difficult,1,Blue Sphere,Other Object,(2.5, 2.1, 1.4)
+AR-difficult,2,Yellow Pyramids,Other Object,(2.7, 1.8, -1.1)
+AR-difficult,2,Yellow Cylinder,Other Object,(1.3, 1.1, 0.0)
+AR-difficult,2,Yellow Cube,Other Object,(2.2, 1.4, 1.0)
+AR-difficult,2,Yellow Sphere,Other Object,(2.3, 1.8, -0.6)
+AR-difficult,2,Yellow Cube,Other Object,(2.7, 0.4, -1.2)
+AR-difficult,2,Yellow Cube,Other Object,(2.5, 0.6, 1.2)
+AR-difficult,2,Yellow Cylinder,Other Object,(1.9, 0.7, -1.1)
+AR-difficult,2,Purple Pyramids,Other Object,(2.8, 0.1, 1.9)
+AR-difficult,2,Blue Pyramids,Other Object,(2.7, 1.4, -0.1)
+AR-difficult,2,Red Pyramids,Other Object,(1.8, 1.6, 0.1)
+AR-difficult,2,Blue Pyramids,Other Object,(2.6, 1.9, 1.6)
+AR-difficult,2,Purple Pyramids,Other Object,(2.1, 1.9, 0.4)
+AR-difficult,2,Blue Pyramids,Other Object,(2.2, 1.0, 1.2)
+AR-difficult,2,Purple Cylinder,Other Object,(2.2, 1.2, -0.7)
+AR-difficult,2,Blue Cylinder,Other Object,(1.3, 1.8, 0.7)
+AR-difficult,2,Blue Cube,Other Object,(2.0, 0.4, 1.1)
+AR-difficult,2,Red Sphere,Other Object,(1.0, 1.4, -0.5)
+AR-difficult,2,Purple Sphere,Other Object,(1.6, 1.4, -0.4)
+AR-difficult,2,Purple Cube,Other Object,(2.6, 1.0, -1.3)
+AR-difficult,3,Blue Cube,Other Object,(2.1, 0.4, 1.5)
+AR-difficult,3,Blue Cylinder,Other Object,(2.7, 0.5, 1.0)
+AR-difficult,3,Blue Cylinder,Other Object,(0.9, 0.9, -0.1)
+AR-difficult,3,Blue Cylinder,Other Object,(2.5, 0.3, -0.1)
+AR-difficult,3,Blue Sphere,Other Object,(1.0, 1.9, 0.7)
+AR-difficult,3,Blue Pyramids,Other Object,(1.7, 1.9, -0.9)
+AR-difficult,3,Blue Sphere,Other Object,(1.6, 1.4, -0.9)
+AR-difficult,3,Purple Cube,Other Object,(2.5, 0.8, 0.7)
+AR-difficult,3,Yellow Cube,Other Object,(1.1, 1.5, -0.6)
+AR-difficult,3,Yellow Cube,Other Object,(2.7, 1.7, 0.0)
+AR-difficult,3,Purple Cube,Other Object,(1.9, 1.7, -0.2)
+AR-difficult,3,Purple Cube,Other Object,(2.0, 0.4, -0.8)
+AR-difficult,3,Yellow Cube,Other Object,(2.1, 1.3, 0.0)
+AR-difficult,3,Red Sphere,Other Object,(2.2, 0.9, 1.3)
+AR-difficult,3,Red Sphere,Other Object,(1.1, 1.3, 0.9)
+AR-difficult,3,Purple Pyramids,Other Object,(2.6, 1.2, 1.6)
+AR-difficult,3,Yellow Sphere,Other Object,(1.9, 1.1, 0.8)
+AR-difficult,3,Red Sphere,Other Object,(1.6, 0.8, 1.2)
+AR-difficult,3,Yellow Pyramids,Other Object,(1.4, 1.0, 0.2)
+AR-difficult,4,Blue Pyramids,Other Object,(1.7, 0.6, -0.8)
+AR-difficult,4,Blue Cube,Other Object,(0.9, 0.8, -0.2)
+AR-difficult,4,Blue Cylinder,Other Object,(1.7, 0.8, 0.3)
+AR-difficult,4,Blue Cylinder,Other Object,(2.6, 0.5, 0.8)
+AR-difficult,4,Blue Sphere,Other Object,(2.5, 2.0, -1.1)
+AR-difficult,4,Blue Cube,Other Object,(2.5, 1.0, -0.8)
+AR-difficult,4,Blue Cube,Other Object,(1.1, 1.2, -0.6)
+AR-difficult,4,Red Pyramids,Other Object,(2.7, 1.7, 0.2)
+AR-difficult,4,Red Pyramids,Other Object,(1.5, 1.4, 0.9)
+AR-difficult,4,Yellow Pyramids,Other Object,(2.7, 1.8, 1.3)
+AR-difficult,4,Yellow Pyramids,Other Object,(2.4, 0.3, -0.3)
+AR-difficult,4,Red Pyramids,Other Object,(1.9, 0.7, 1.2)
+AR-difficult,4,Purple Pyramids,Other Object,(2.6, 1.6, 1.8)
+AR-difficult,4,Red Sphere,Other Object,(2.4, 2.2, 0.8)
+AR-difficult,4,Yellow Sphere,Other Object,(2.0, 1.4, -0.6)
+AR-difficult,4,Yellow Cube,Other Object,(2.7, 0.2, 1.7)
+AR-difficult,4,Purple Cylinder,Other Object,(2.8, 1.7, 0.7)
+AR-difficult,4,Purple Cube,Other Object,(0.8, 1.3, 0.5)
+AR-difficult,4,Red Cylinder,Other Object,(1.7, 1.9, -0.3)
+AR-difficult,5,Yellow Pyramids,Other Object,(1.0, 0.6, -0.5)
+AR-difficult,5,Yellow Sphere,Other Object,(2.6, 1.5, -1.0)
+AR-difficult,5,Yellow Cylinder,Other Object,(2.4, 0.3, 0.7)
+AR-difficult,5,Yellow Sphere,Other Object,(0.8, 1.4, 0.5)
+AR-difficult,5,Yellow Sphere,Other Object,(2.0, 0.5, 0.4)
+AR-difficult,5,Yellow Sphere,Other Object,(1.8, 1.0, 0.4)
+AR-difficult,5,Yellow Cylinder,Other Object,(2.2, 0.6, -1.1)
+AR-difficult,5,Red Pyramids,Other Object,(2.0, 0.4, 1.3)
+AR-difficult,5,Blue Pyramids,Other Object,(0.6, 1.1, -0.3)
+AR-difficult,5,Purple Pyramids,Other Object,(2.1, 0.9, 0.9)
+AR-difficult,5,Red Pyramids,Other Object,(1.7, 1.9, 0.2)
+AR-difficult,5,Red Pyramids,Other Object,(2.6, 1.4, 0.6)
+AR-difficult,5,Purple Pyramids,Other Object,(1.4, 1.6, 1.2)
+AR-difficult,5,Red Cylinder,Other Object,(2.0, 1.7, -0.7)
+AR-difficult,5,Blue Cube,Other Object,(2.7, 2.1, 0.8)
+AR-difficult,5,Purple Cylinder,Other Object,(2.2, 1.9, 0.4)
+AR-difficult,5,Purple Cylinder,Other Object,(1.3, 1.1, -0.7)
+AR-difficult,5,Purple Cube,Other Object,(1.1, 1.8, -0.1)
+AR-difficult,5,Red Sphere,Other Object,(0.7, 0.8, 0.5)
+AR-difficult,6,Red Cube,Other Object,(2.1, 0.6, 1.5)
+AR-difficult,6,Red Cylinder,Other Object,(2.6, 0.9, 1.6)
+AR-difficult,6,Red Pyramids,Other Object,(2.1, 2.0, 1.3)
+AR-difficult,6,Red Pyramids,Other Object,(1.8, 1.2, 1.3)
+AR-difficult,6,Red Pyramids,Other Object,(0.5, 1.4, 0.5)
+AR-difficult,6,Red Sphere,Other Object,(1.4, 1.5, -0.4)
+AR-difficult,6,Red Sphere,Other Object,(1.7, 1.6, 0.7)
+AR-difficult,6,Yellow Cube,Other Object,(2.0, 0.8, -0.1)
+AR-difficult,6,Purple Cube,Other Object,(2.4, 1.1, -0.6)
+AR-difficult,6,Purple Cube,Other Object,(2.7, 2.2, 1.8)
+AR-difficult,6,Yellow Cube,Other Object,(1.9, 1.4, -1.1)
+AR-difficult,6,Blue Cube,Other Object,(2.0, 0.9, -0.8)
+AR-difficult,6,Blue Cube,Other Object,(2.5, 1.2, 0.3)
+AR-difficult,6,Yellow Sphere,Other Object,(1.5, 0.6, 0.9)
+AR-difficult,6,Yellow Sphere,Other Object,(2.3, 1.0, 1.1)
+AR-difficult,6,Blue Pyramids,Other Object,(2.3, 0.3, -0.1)
+AR-difficult,6,Blue Sphere,Other Object,(2.6, 2.0, -0.2)
+AR-difficult,6,Yellow Cylinder,Other Object,(1.7, 1.0, 0.6)
+AR-difficult,6,Yellow Pyramids,Other Object,(2.5, 1.7, 1.1)
+AR-difficult,7,Purple Cube,Other Object,(1.0, 0.8, 0.7)
+AR-difficult,7,Purple Sphere,Other Object,(2.6, 1.6, 0.2)
+AR-difficult,7,Purple Pyramids,Other Object,(2.4, 0.5, -0.8)
+AR-difficult,7,Purple Pyramids,Other Object,(1.4, 0.8, -0.4)
+AR-difficult,7,Purple Sphere,Other Object,(2.6, 1.9, -1.1)
+AR-difficult,7,Purple Cylinder,Other Object,(2.2, 1.2, 0.8)
+AR-difficult,7,Purple Sphere,Other Object,(2.6, 1.6, 1.1)
+AR-difficult,7,Blue Cube,Other Object,(1.7, 1.6, 0.6)
+AR-difficult,7,Red Cube,Other Object,(1.1, 1.8, 0.9)
+AR-difficult,7,Blue Cube,Other Object,(2.6, 0.3, 1.7)
+AR-difficult,7,Red Cube,Other Object,(2.1, 0.8, 0.7)
+AR-difficult,7,Yellow Cube,Other Object,(1.7, 1.1, 0.1)
+AR-difficult,7,Red Cube,Other Object,(0.6, 1.2, 0.8)
+AR-difficult,7,Yellow Cylinder,Other Object,(1.5, 1.5, -0.9)
+AR-difficult,7,Yellow Pyramids,Other Object,(1.9, 0.9, 1.2)
+AR-difficult,7,Blue Sphere,Other Object,(1.8, 1.7, 0.0)
+AR-difficult,7,Red Cylinder,Other Object,(2.7, 1.4, 1.7)
+AR-difficult,7,Blue Sphere,Other Object,(2.4, 0.7, 1.6)
+AR-difficult,7,Yellow Sphere,Other Object,(2.8, 0.3, 0.5)
+AR-difficult,8,Purple Sphere,Other Object,(2.8, 2.3, -0.6)
+AR-difficult,8,Purple Cylinder,Other Object,(2.3, 2.2, 0.1)
+AR-difficult,8,Purple Cylinder,Other Object,(1.6, 1.1, -0.7)
+AR-difficult,8,Purple Pyramids,Other Object,(2.1, 1.8, 1.3)
+AR-difficult,8,Purple Cube,Other Object,(2.0, 0.9, 0.3)
+AR-difficult,8,Purple Pyramids,Other Object,(2.5, 1.5, 0.6)
+AR-difficult,8,Purple Cube,Other Object,(2.7, 0.2, 0.4)
+AR-difficult,8,Yellow Sphere,Other Object,(0.8, 1.0, 0.3)
+AR-difficult,8,Red Sphere,Other Object,(2.1, 1.2, 1.1)
+AR-difficult,8,Red Sphere,Other Object,(1.3, 1.9, 0.7)
+AR-difficult,8,Yellow Sphere,Other Object,(2.2, 0.7, -0.2)
+AR-difficult,8,Blue Sphere,Other Object,(0.5, 1.1, -0.1)
+AR-difficult,8,Blue Sphere,Other Object,(2.4, 1.2, 0.0)
+AR-difficult,8,Yellow Cube,Other Object,(1.4, 1.7, -0.4)
+AR-difficult,8,Blue Cylinder,Other Object,(1.7, 0.5, 1.1)
+AR-difficult,8,Yellow Pyramids,Other Object,(2.1, 1.5, -0.5)
+AR-difficult,8,Red Cube,Other Object,(2.4, 0.5, -0.8)
+AR-difficult,8,Blue Cylinder,Other Object,(2.7, 1.3, 1.4)
+AR-difficult,8,Blue Cube,Other Object,(0.5, 1.2, 0.7)
+AR-difficult,9,Blue Pyramids,Other Object,(0.7, 0.8, 0.9)
+AR-difficult,9,Blue Sphere,Other Object,(2.7, 1.3, 1.3)
+AR-difficult,9,Blue Cylinder,Other Object,(1.4, 0.9, 1.1)
+AR-difficult,9,Blue Sphere,Other Object,(2.2, 0.3, 0.2)
+AR-difficult,9,Blue Cylinder,Other Object,(2.6, 1.4, -1.2)
+AR-difficult,9,Blue Sphere,Other Object,(1.9, 0.8, 0.8)
+AR-difficult,9,Blue Cube,Other Object,(1.7, 1.9, -0.4)
+AR-difficult,9,Purple Pyramids,Other Object,(1.0, 1.0, -0.5)
+AR-difficult,9,Yellow Pyramids,Other Object,(2.4, 2.0, 0.3)
+AR-difficult,9,Yellow Pyramids,Other Object,(2.6, 2.2, -1.0)
+AR-difficult,9,Yellow Pyramids,Other Object,(2.7, 0.7, -1.4)
+AR-difficult,9,Yellow Pyramids,Other Object,(2.1, 1.9, 0.9)
+AR-difficult,9,Red Pyramids,Other Object,(1.2, 0.6, -0.8)
+AR-difficult,9,Purple Sphere,Other Object,(2.6, 0.4, -0.6)
+AR-difficult,9,Yellow Cube,Other Object,(1.7, 1.2, -1.0)
+AR-difficult,9,Purple Sphere,Other Object,(2.7, 1.4, 0.1)
+AR-difficult,9,Purple Cylinder,Other Object,(2.3, 1.3, 0.8)
+AR-difficult,9,Red Cube,Other Object,(2.6, 1.2, -0.4)
+AR-difficult,9,Yellow Sphere,Other Object,(2.5, 2.1, 1.1)
+AR-difficult,10,Purple Cylinder,Other Object,(2.4, 2.2, 0.8)
+AR-difficult,10,Purple Sphere,Other Object,(1.9, 1.3, -0.2)
+AR-difficult,10,Purple Sphere,Other Object,(2.0, 0.9, 0.6)
+AR-difficult,10,Purple Cube,Other Object,(0.6, 0.8, 0.8)
+AR-difficult,10,Purple Sphere,Other Object,(1.1, 1.0, 0.8)
+AR-difficult,10,Purple Cube,Other Object,(2.7, 1.2, 0.9)
+AR-difficult,10,Purple Sphere,Other Object,(2.7, 2.2, 0.1)
+AR-difficult,10,Blue Cylinder,Other Object,(1.5, 0.9, -0.3)
+AR-difficult,10,Yellow Cylinder,Other Object,(2.2, 0.3, -0.6)
+AR-difficult,10,Red Cylinder,Other Object,(2.5, 1.3, -0.2)
+AR-difficult,10,Blue Cylinder,Other Object,(2.4, 1.4, -0.9)
+AR-difficult,10,Red Cylinder,Other Object,(2.2, 1.6, 0.1)
+AR-difficult,10,Yellow Cylinder,Other Object,(0.7, 1.6, 0.4)
+AR-difficult,10,Yellow Sphere,Other Object,(2.8, 0.1, 0.3)
+AR-difficult,10,Yellow Sphere,Other Object,(2.7, 0.5, 1.3)
+AR-difficult,10,Red Pyramids,Other Object,(1.5, 0.8, 0.2)
+AR-difficult,10,Yellow Cube,Other Object,(1.6, 0.7, 1.2)
+AR-difficult,10,Red Cube,Other Object,(1.7, 1.3, 1.0)
+AR-difficult,10,Yellow Pyramids,Other Object,(1.2, 1.3, -0.7)
+AR-difficult,11,Yellow Cylinder,Other Object,(1.9, 1.9, 0.9)
+AR-difficult,11,Yellow Sphere,Other Object,(1.2, 1.1, 0.7)
+AR-difficult,11,Yellow Sphere,Other Object,(2.4, 0.7, 1.5)
+AR-difficult,11,Yellow Cube,Other Object,(2.4, 0.8, -0.6)
+AR-difficult,11,Yellow Sphere,Other Object,(2.3, 1.2, 0.8)
+AR-difficult,11,Yellow Cube,Other Object,(1.6, 0.9, 0.1)
+AR-difficult,11,Yellow Pyramids,Other Object,(1.9, 0.4, -1.0)
+AR-difficult,11,Blue Cylinder,Other Object,(2.0, 0.9, 0.4)
+AR-difficult,11,Blue Cylinder,Other Object,(1.3, 1.3, -0.5)
+AR-difficult,11,Red Cylinder,Other Object,(2.6, 2.0, 0.5)
+AR-difficult,11,Blue Cylinder,Other Object,(2.0, 1.4, 1.3)
+AR-difficult,11,Blue Cylinder,Other Object,(0.9, 1.5, 1.0)
+AR-difficult,11,Red Cylinder,Other Object,(0.4, 0.8, 0.0)
+AR-difficult,11,Purple Cube,Other Object,(1.8, 0.7, -0.4)
+AR-difficult,11,Purple Sphere,Other Object,(1.9, 0.5, 1.1)
+AR-difficult,11,Blue Sphere,Other Object,(2.1, 1.5, 0.2)
+AR-difficult,11,Red Pyramids,Other Object,(1.2, 1.9, -0.5)
+AR-difficult,11,Blue Pyramids,Other Object,(1.8, 1.4, -0.8)
+AR-difficult,11,Purple Pyramids,Other Object,(2.5, 2.1, -1.0)
+AR-difficult,12,Purple Pyramids,Other Object,(1.9, 0.7, -0.5)
+AR-difficult,12,Purple Cube,Other Object,(1.9, 1.3, 0.0)
+AR-difficult,12,Purple Cube,Other Object,(2.5, 1.1, 0.5)
+AR-difficult,12,Purple Sphere,Other Object,(0.6, 1.2, 0.8)
+AR-difficult,12,Purple Cylinder,Other Object,(2.5, 1.1, -0.7)
+AR-difficult,12,Purple Cube,Other Object,(1.9, 2.0, 0.5)
+AR-difficult,12,Purple Cube,Other Object,(1.2, 0.8, 0.7)
+AR-difficult,12,Yellow Pyramids,Other Object,(1.7, 1.4, 1.3)
+AR-difficult,12,Yellow Pyramids,Other Object,(2.6, 0.4, 0.7)
+AR-difficult,12,Blue Pyramids,Other Object,(1.8, 0.4, 1.0)
+AR-difficult,12,Red Pyramids,Other Object,(2.5, 2.1, 0.6)
+AR-difficult,12,Yellow Pyramids,Other Object,(0.8, 1.4, -0.1)
+AR-difficult,12,Blue Pyramids,Other Object,(2.6, 0.2, -1.3)
+AR-difficult,12,Blue Sphere,Other Object,(2.2, 1.7, -0.6)
+AR-difficult,12,Yellow Sphere,Other Object,(1.0, 1.8, 0.5)
+AR-difficult,12,Red Cylinder,Other Object,(1.4, 1.6, -0.5)
+AR-difficult,12,Blue Cube,Other Object,(2.6, 1.8, 1.3)
+AR-difficult,12,Blue Sphere,Other Object,(2.5, 0.9, -1.2)
+AR-difficult,12,Red Cylinder,Other Object,(2.2, 0.3, 0.5)
+AR-difficult,13,Blue Cube,Other Object,(2.2, 0.7, 0.0)
+AR-difficult,13,Blue Sphere,Other Object,(2.0, 1.3, 0.7)
+AR-difficult,13,Blue Cylinder,Other Object,(2.6, 1.1, -0.8)
+AR-difficult,13,Blue Pyramids,Other Object,(2.2, 1.9, 1.3)
+AR-difficult,13,Blue Sphere,Other Object,(2.4, 2.0, -1.1)
+AR-difficult,13,Blue Pyramids,Other Object,(2.7, 0.5, -1.4)
+AR-difficult,13,Blue Sphere,Other Object,(1.3, 0.6, -0.1)
+AR-difficult,13,Red Cube,Other Object,(2.6, 1.2, 0.2)
+AR-difficult,13,Purple Cube,Other Object,(2.0, 0.5, 1.3)
+AR-difficult,13,Yellow Cube,Other Object,(1.4, 1.7, 0.8)
+AR-difficult,13,Red Cube,Other Object,(1.4, 1.4, -0.8)
+AR-difficult,13,Red Cube,Other Object,(1.8, 1.5, 0.1)
+AR-difficult,13,Red Cube,Other Object,(0.7, 1.5, -0.4)
+AR-difficult,13,Red Cylinder,Other Object,(0.4, 1.7, 0.9)
+AR-difficult,13,Purple Sphere,Other Object,(2.1, 0.7, -0.7)
+AR-difficult,13,Purple Sphere,Other Object,(1.6, 2.0, 1.3)
+AR-difficult,13,Red Sphere,Other Object,(2.1, 2.0, -0.3)
+AR-difficult,13,Yellow Sphere,Other Object,(0.5, 0.9, -0.4)
+AR-difficult,13,Red Pyramids,Other Object,(2.5, 2.2, 0.2)
+AR-difficult,14,Yellow Sphere,Other Object,(0.9, 0.9, 0.1)
+AR-difficult,14,Yellow Cylinder,Other Object,(1.8, 0.7, -0.1)
+AR-difficult,14,Yellow Pyramids,Other Object,(2.6, 1.0, 1.1)
+AR-difficult,14,Yellow Cylinder,Other Object,(2.3, 2.0, 0.6)
+AR-difficult,14,Yellow Pyramids,Other Object,(1.0, 1.6, 0.1)
+AR-difficult,14,Yellow Pyramids,Other Object,(2.6, 2.2, -0.9)
+AR-difficult,14,Yellow Cylinder,Other Object,(2.4, 0.4, -0.1)
+AR-difficult,14,Red Sphere,Other Object,(1.9, 0.9, 0.6)
+AR-difficult,14,Red Sphere,Other Object,(1.9, 0.6, -0.7)
+AR-difficult,14,Purple Sphere,Other Object,(1.4, 1.6, 1.1)
+AR-difficult,14,Red Sphere,Other Object,(2.8, 1.9, 0.1)
+AR-difficult,14,Red Sphere,Other Object,(2.3, 2.1, -0.5)
+AR-difficult,14,Blue Sphere,Other Object,(2.4, 2.0, 1.5)
+AR-difficult,14,Red Cube,Other Object,(2.5, 1.1, 0.4)
+AR-difficult,14,Purple Pyramids,Other Object,(0.9, 1.1, 1.0)
+AR-difficult,14,Purple Pyramids,Other Object,(1.9, 1.4, 0.7)
+AR-difficult,14,Blue Cylinder,Other Object,(1.6, 1.2, 0.1)
+AR-difficult,14,Blue Cylinder,Other Object,(1.2, 0.8, -0.7)
+AR-difficult,14,Blue Cube,Other Object,(2.8, 0.6, -0.5)
+AR-difficult,15,Purple Cylinder,Other Object,(2.5, 1.0, -0.8)
+AR-difficult,15,Purple Sphere,Other Object,(2.4, 1.4, 0.4)
+AR-difficult,15,Purple Pyramids,Other Object,(1.4, 1.3, 0.4)
+AR-difficult,15,Purple Sphere,Other Object,(1.7, 1.5, 0.0)
+AR-difficult,15,Purple Pyramids,Other Object,(2.1, 0.6, 1.4)
+AR-difficult,15,Purple Sphere,Other Object,(2.6, 0.3, 0.4)
+AR-difficult,15,Purple Cube,Other Object,(2.6, 2.1, 1.4)
+AR-difficult,15,Yellow Cylinder,Other Object,(0.7, 1.3, -0.1)
+AR-difficult,15,Blue Cylinder,Other Object,(1.5, 0.6, 0.9)
+AR-difficult,15,Blue Cylinder,Other Object,(0.6, 0.8, 0.5)
+AR-difficult,15,Blue Cylinder,Other Object,(1.2, 0.7, 0.2)
+AR-difficult,15,Red Cylinder,Other Object,(2.1, 0.8, 0.8)
+AR-difficult,15,Yellow Cylinder,Other Object,(0.9, 1.0, -0.5)
+AR-difficult,15,Yellow Cube,Other Object,(2.4, 2.2, -0.2)
+AR-difficult,15,Red Sphere,Other Object,(1.7, 0.7, -1.0)
+AR-difficult,15,Yellow Cube,Other Object,(2.7, 1.7, -0.5)
+AR-difficult,15,Blue Pyramids,Other Object,(2.6, 0.3, -0.5)
+AR-difficult,15,Yellow Cube,Other Object,(2.3, 1.9, 0.9)
+AR-difficult,15,Blue Cube,Other Object,(1.1, 1.8, 0.8)
+AR-difficult,16,Purple Pyramids,Other Object,(2.4, 0.8, -0.3)
+AR-difficult,16,Purple Cylinder,Other Object,(1.3, 1.9, -0.2)
+AR-difficult,16,Purple Sphere,Other Object,(1.4, 1.3, -0.2)
+AR-difficult,16,Purple Cylinder,Other Object,(2.2, 2.0, 1.5)
+AR-difficult,16,Purple Cylinder,Other Object,(1.1, 1.4, -0.7)
+AR-difficult,16,Purple Sphere,Other Object,(2.7, 2.1, 1.6)
+AR-difficult,16,Purple Cylinder,Other Object,(2.6, 0.2, 0.4)
+AR-difficult,16,Blue Pyramids,Other Object,(2.7, 1.1, -0.9)
+AR-difficult,16,Yellow Pyramids,Other Object,(2.6, 1.7, -0.9)
+AR-difficult,16,Red Pyramids,Other Object,(0.4, 1.4, 0.0)
+AR-difficult,16,Yellow Pyramids,Other Object,(2.0, 1.2, 0.1)
+AR-difficult,16,Blue Pyramids,Other Object,(2.2, 1.6, 0.7)
+AR-difficult,16,Red Pyramids,Other Object,(2.6, 0.2, 1.0)
+AR-difficult,16,Blue Sphere,Other Object,(1.8, 2.0, 0.2)
+AR-difficult,16,Blue Cylinder,Other Object,(2.8, 0.3, -0.2)
+AR-difficult,16,Red Sphere,Other Object,(2.4, 1.1, 0.6)
+AR-difficult,16,Blue Cube,Other Object,(1.6, 2.0, -0.8)
+AR-difficult,16,Yellow Cylinder,Other Object,(2.6, 0.2, -0.8)
+AR-difficult,16,Red Cylinder,Other Object,(1.4, 1.1, 1.2)
+AR-difficult,17,Red Cylinder,Other Object,(1.7, 0.9, 0.0)
+AR-difficult,17,Red Pyramids,Other Object,(1.8, 2.0, -0.2)
+AR-difficult,17,Red Pyramids,Other Object,(1.0, 1.0, 1.0)
+AR-difficult,17,Red Cube,Other Object,(2.1, 0.3, 1.1)
+AR-difficult,17,Red Pyramids,Other Object,(1.0, 1.6, -0.4)
+AR-difficult,17,Red Cube,Other Object,(2.0, 1.3, 0.0)
+AR-difficult,17,Red Sphere,Other Object,(2.4, 0.8, 1.2)
+AR-difficult,17,Blue Cylinder,Other Object,(2.5, 1.2, 0.4)
+AR-difficult,17,Purple Cylinder,Other Object,(2.2, 0.6, -0.4)
+AR-difficult,17,Purple Cylinder,Other Object,(1.3, 1.3, 0.7)
+AR-difficult,17,Blue Cylinder,Other Object,(2.7, 1.2, 1.5)
+AR-difficult,17,Yellow Cylinder,Other Object,(1.1, 1.7, 0.9)
+AR-difficult,17,Purple Cylinder,Other Object,(2.7, 2.0, 1.8)
+AR-difficult,17,Purple Cube,Other Object,(1.5, 1.4, 1.2)
+AR-difficult,17,Blue Pyramids,Other Object,(2.6, 1.6, 0.0)
+AR-difficult,17,Blue Pyramids,Other Object,(0.6, 1.8, 0.0)
+AR-difficult,17,Purple Cube,Other Object,(1.7, 1.0, -0.5)
+AR-difficult,17,Purple Pyramids,Other Object,(0.5, 1.3, 0.4)
+AR-difficult,17,Blue Sphere,Other Object,(0.4, 0.9, 0.8)
+AR-difficult,18,Purple Cube,Other Object,(1.9, 1.4, 0.1)
+AR-difficult,18,Purple Cylinder,Other Object,(2.4, 1.9, -1.1)
+AR-difficult,18,Purple Sphere,Other Object,(2.7, 1.7, 0.3)
+AR-difficult,18,Purple Sphere,Other Object,(0.5, 1.2, -0.1)
+AR-difficult,18,Purple Cylinder,Other Object,(0.9, 1.8, 0.0)
+AR-difficult,18,Purple Cylinder,Other Object,(2.5, 0.9, -0.3)
+AR-difficult,18,Purple Pyramids,Other Object,(1.8, 0.8, -0.9)
+AR-difficult,18,Red Cube,Other Object,(2.4, 0.4, -0.8)
+AR-difficult,18,Red Cube,Other Object,(2.5, 2.2, 0.3)
+AR-difficult,18,Blue Cube,Other Object,(2.5, 1.4, -0.4)
+AR-difficult,18,Yellow Cube,Other Object,(1.5, 0.8, -0.4)
+AR-difficult,18,Red Cube,Other Object,(1.0, 1.7, 0.8)
+AR-difficult,18,Yellow Cube,Other Object,(1.9, 0.4, -0.2)
+AR-difficult,18,Blue Sphere,Other Object,(2.6, 1.0, -1.1)
+AR-difficult,18,Red Cylinder,Other Object,(2.1, 1.8, 1.1)
+AR-difficult,18,Blue Pyramids,Other Object,(1.2, 1.9, -0.6)
+AR-difficult,18,Blue Cylinder,Other Object,(2.6, 1.3, 1.0)
+AR-difficult,18,Red Pyramids,Other Object,(2.5, 0.4, 0.5)
+AR-difficult,18,Blue Pyramids,Other Object,(2.7, 0.3, 0.0)
+AR-difficult,19,Yellow Pyramids,Other Object,(2.7, 2.1, -0.8)
+AR-difficult,19,Yellow Cylinder,Other Object,(2.0, 0.4, -1.0)
+AR-difficult,19,Yellow Sphere,Other Object,(2.4, 0.3, 0.7)
+AR-difficult,19,Yellow Cube,Other Object,(2.8, 1.1, -1.4)
+AR-difficult,19,Yellow Sphere,Other Object,(2.0, 1.7, 0.6)
+AR-difficult,19,Yellow Cube,Other Object,(0.9, 0.8, 0.0)
+AR-difficult,19,Yellow Cylinder,Other Object,(0.6, 1.3, -0.3)
+AR-difficult,19,Blue Pyramids,Other Object,(2.6, 1.6, 1.0)
+AR-difficult,19,Purple Pyramids,Other Object,(2.7, 1.5, 1.6)
+AR-difficult,19,Purple Pyramids,Other Object,(2.2, 0.7, 1.6)
+AR-difficult,19,Purple Pyramids,Other Object,(2.8, 2.2, 1.2)
+AR-difficult,19,Red Pyramids,Other Object,(1.8, 0.6, 0.2)
+AR-difficult,19,Red Pyramids,Other Object,(1.3, 1.5, -0.4)
+AR-difficult,19,Red Cylinder,Other Object,(0.6, 0.9, 0.7)
+AR-difficult,19,Blue Cylinder,Other Object,(2.0, 1.5, -0.7)
+AR-difficult,19,Red Cube,Other Object,(2.3, 1.7, 0.0)
+AR-difficult,19,Purple Cylinder,Other Object,(2.6, 2.1, 0.1)
+AR-difficult,19,Blue Cube,Other Object,(1.3, 1.9, 1.2)
+AR-difficult,19,Purple Cylinder,Other Object,(2.6, 0.2, 0.1)
+AR-difficult,20,Blue Sphere,Other Object,(1.9, 1.9, 0.5)
+AR-difficult,20,Blue Cube,Other Object,(2.2, 2.1, 1.6)
+AR-difficult,20,Blue Cylinder,Other Object,(2.6, 1.9, 0.0)
+AR-difficult,20,Blue Cylinder,Other Object,(1.4, 0.8, -0.1)
+AR-difficult,20,Blue Pyramids,Other Object,(2.6, 1.8, -1.2)
+AR-difficult,20,Blue Cylinder,Other Object,(1.4, 1.4, 0.0)
+AR-difficult,20,Blue Cylinder,Other Object,(2.2, 0.5, 1.2)
+AR-difficult,20,Purple Sphere,Other Object,(2.4, 1.7, 0.6)
+AR-difficult,20,Yellow Sphere,Other Object,(1.6, 0.5, -0.6)
+AR-difficult,20,Yellow Sphere,Other Object,(1.2, 1.8, -0.2)
+AR-difficult,20,Purple Sphere,Other Object,(2.6, 0.8, -1.0)
+AR-difficult,20,Purple Sphere,Other Object,(2.1, 1.0, -0.1)
+AR-difficult,20,Yellow Sphere,Other Object,(0.9, 1.3, -0.5)
+AR-difficult,20,Purple Cube,Other Object,(1.8, 0.9, 0.3)
+AR-difficult,20,Purple Pyramids,Other Object,(1.2, 1.7, 0.9)
+AR-difficult,20,Purple Cylinder,Other Object,(2.1, 0.5, -0.5)
+AR-difficult,20,Purple Pyramids,Other Object,(1.7, 0.5, 0.7)
+AR-difficult,20,Yellow Pyramids,Other Object,(2.4, 0.5, 0.3)
+AR-difficult,20,Purple Cube,Other Object,(1.8, 1.0, -0.9)
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+AR-difficult,22,Yellow Sphere,Other Object,(2.3, 0.9, -1.2)
+AR-difficult,23,Yellow Cylinder,Other Object,(2.7, 2.1, -0.3)
+AR-difficult,24,Blue Cylinder,Other Object,(2.6, 2.0, 0.2)
+AR-difficult,25,Blue Pyramids,Other Object,(2.6, 1.0, -1.3)
+AR-difficult,26,Yellow Cube,Other Object,(2.8, 1.1, -1.5)
+AR-difficult,27,Yellow Cylinder,Other Object,(2.2, 0.8, -1.1)
+AR-difficult,28,Yellow Pyramids,Other Object,(0.6, 1.2, 0.1)
+AR-difficult,29,Yellow Sphere,Other Object,(1.5, 0.8, -0.1)
+AR-difficult,30,Red Cube,Other Object,(2.6, 1.3, -0.3)
+Block,Pattern,Item,Tag,X_Coordination,Y_Coordination,Z_Coordination
+1688032400500,AR-easy,1,Purple Sphere,Target,2.641571,1.549321,-1.335217
+1688032400500,AR-easy,1,Purple Cylinder,Same Color,2.38218,1.155298,1.248149
+1688032400500,AR-easy,1,Purple Pyramids,Same Color,1.349124,1.562815,0.819905
+1688032400500,AR-easy,1,Purple Pyramids,Same Color,2.386744,0.6901538,-1.233053
+1688032400500,AR-easy,1,Purple Cube,Same Color,1.701819,0.403022,-0.08244407
+1688032400500,AR-easy,1,Purple Cube,Same Color,1.709819,1.208631,0.8009222
+1688032400500,AR-easy,1,Purple Cylinder,Same Color,2.388266,0.7962076,-0.02043706
+1688032400500,AR-easy,1,Red Sphere,Same Shape,2.510539,0.1687061,-0.9300974
+1688032400500,AR-easy,1,Blue Sphere,Same Shape,0.8235847,1.710491,0.2612094
+1688032400500,AR-easy,1,Red Sphere,Same Shape,2.51662,2.159662,1.659271
+1688032400500,AR-easy,1,Yellow Sphere,Same Shape,1.856938,1.950302,-0.4475597
+1688032400500,AR-easy,1,Blue Sphere,Same Shape,1.823484,1.004232,1.455843
+1688032400500,AR-easy,1,Yellow Sphere,Same Shape,2.198073,0.3736574,0.8643512
+1688032400500,AR-easy,1,Yellow Cube,Different,0.9356687,0.8475586,0.2303882
+1688032400500,AR-easy,1,Blue Pyramids,Different,2.641396,0.3339131,1.344049
+1688032400500,AR-easy,1,Red Pyramids,Different,2.347048,2.013773,-0.2663588
+1688032400500,AR-easy,1,Yellow Cube,Different,1.343039,0.8230454,1.302886
+1688032400500,AR-easy,1,Red Cylinder,Different,1.785005,1.81079,1.317981
+1688032400500,AR-easy,1,Red Cylinder,Different,2.706652,2.192246,0.3064182
+1688032403257,AR-easy,2,Red Cylinder,Target,2.444664,1.706248,-0.6901976
+1688032403257,AR-easy,2,Red Pyramids,Same Color,2.72336,0.9133992,1.557464
+1688032403257,AR-easy,2,Red Sphere,Same Color,1.343697,1.676439,-0.7775345
+1688032403257,AR-easy,2,Red Sphere,Same Color,2.211785,0.9548995,-0.215684
+1688032403257,AR-easy,2,Red Sphere,Same Color,1.836277,1.002506,-0.9472326
+1688032403257,AR-easy,2,Red Pyramids,Same Color,1.021323,1.499654,-0.1265704
+1688032403257,AR-easy,2,Red Sphere,Same Color,2.763663,0.403009,-0.4849814
+1688032403257,AR-easy,2,Blue Cylinder,Same Shape,1.588982,1.000516,-0.5086846
+1688032403257,AR-easy,2,Blue Cylinder,Same Shape,2.101324,1.68816,1.235047
+1688032403257,AR-easy,2,Yellow Cylinder,Same Shape,1.926801,1.010434,0.7854236
+1688032403257,AR-easy,2,Purple Cylinder,Same Shape,2.433286,0.3871837,0.2592804
+1688032403257,AR-easy,2,Blue Cylinder,Same Shape,2.289786,1.013815,1.305381
+1688032403257,AR-easy,2,Yellow Cylinder,Same Shape,2.554122,0.3647282,0.9684689
+1688032403257,AR-easy,2,Purple Sphere,Different,0.8015734,0.8842635,-0.04756844
+1688032403257,AR-easy,2,Purple Sphere,Different,2.448685,2.211406,-0.5627958
+1688032403257,AR-easy,2,Yellow Pyramids,Different,1.401676,0.8327051,0.3735004
+1688032403257,AR-easy,2,Yellow Sphere,Different,2.723482,1.290955,-0.1512173
+1688032403257,AR-easy,2,Yellow Cube,Different,2.607556,1.501406,1.789039
+1688032403257,AR-easy,2,Blue Cube,Different,1.35972,1.343763,0.4996844
+1688032405524,AR-easy,3,Blue Cylinder,Target,1.510803,0.7893836,0.4941874
+1688032405524,AR-easy,3,Blue Cube,Same Color,2.001481,1.381485,-0.627815
+1688032405524,AR-easy,3,Blue Sphere,Same Color,2.39237,0.8059474,-0.8619283
+1688032405524,AR-easy,3,Blue Pyramids,Same Color,2.758732,0.2927233,0.3142489
+1688032405524,AR-easy,3,Blue Sphere,Same Color,2.107038,0.8880144,-0.2721565
+1688032405524,AR-easy,3,Blue Sphere,Same Color,1.234003,1.04231,-0.6838653
+1688032405524,AR-easy,3,Blue Cube,Same Color,2.678739,1.370398,-0.1797455
+1688032405524,AR-easy,3,Yellow Cylinder,Same Shape,1.693594,1.989482,-0.8133429
+1688032405524,AR-easy,3,Red Cylinder,Same Shape,2.666475,1.923284,0.5454602
+1688032405524,AR-easy,3,Yellow Cylinder,Same Shape,0.8369454,1.734392,0.3044756
+1688032405524,AR-easy,3,Purple Cylinder,Same Shape,2.383646,0.7264675,0.337059
+1688032405524,AR-easy,3,Red Cylinder,Same Shape,0.7874718,1.27075,-0.4106241
+1688032405524,AR-easy,3,Purple Cylinder,Same Shape,2.661225,0.1421107,-1.4053
+1688032405524,AR-easy,3,Purple Sphere,Different,2.258512,0.9552278,0.8265556
+1688032405524,AR-easy,3,Yellow Pyramids,Different,2.671725,1.082855,1.781381
+1688032405524,AR-easy,3,Red Sphere,Different,1.782204,0.8456128,1.234308
+1688032405524,AR-easy,3,Purple Cube,Different,2.21133,1.750272,1.049765
+1688032405524,AR-easy,3,Red Sphere,Different,2.608011,1.605325,-0.9671218
+1688032405524,AR-easy,3,Purple Cube,Different,2.301121,2.054802,-0.3336431
+1688032408290,AR-easy,4,Blue Pyramids,Target,1.379742,1.19914,-0.1781423
+1688032408290,AR-easy,4,Blue Sphere,Same Color,2.703953,2.217195,1.231225
+1688032408290,AR-easy,4,Blue Cylinder,Same Color,0.8402031,1.049554,0.3510275
+1688032408290,AR-easy,4,Blue Sphere,Same Color,2.092915,1.329508,-0.142574
+1688032408290,AR-easy,4,Blue Cube,Same Color,2.643475,1.363147,-0.4682193
+1688032408290,AR-easy,4,Blue Cube,Same Color,2.362704,0.9959819,1.404698
+1688032408290,AR-easy,4,Blue Sphere,Same Color,2.687046,1.853863,0.6196628
+1688032408290,AR-easy,4,Yellow Pyramids,Same Shape,0.7500155,1.587198,0.9071083
+1688032408290,AR-easy,4,Yellow Pyramids,Same Shape,2.682628,0.5885252,-0.4840158
+1688032408290,AR-easy,4,Yellow Pyramids,Same Shape,2.052777,1.799546,-0.6160457
+1688032408290,AR-easy,4,Yellow Pyramids,Same Shape,1.581544,1.856529,0.4369461
+1688032408290,AR-easy,4,Yellow Pyramids,Same Shape,2.626727,2.094079,-1.070426
+1688032408290,AR-easy,4,Red Pyramids,Same Shape,2.156886,1.941545,0.2308209
+1688032408290,AR-easy,4,Red Cube,Different,2.560643,0.3454519,0.8325524
+1688032408290,AR-easy,4,Yellow Cylinder,Different,1.694116,1.036157,-0.6045913
+1688032408290,AR-easy,4,Red Sphere,Different,2.020558,1.263009,0.7649252
+1688032408290,AR-easy,4,Purple Sphere,Different,1.042578,1.616206,-0.4019715
+1688032408290,AR-easy,4,Red Cylinder,Different,1.604114,0.5901271,-0.8836711
+1688032408290,AR-easy,4,Purple Cube,Different,2.425779,0.9211654,0.6399086
+1688032410557,AR-easy,5,Blue Cube,Target,1.957087,0.6735518,1.391609
+1688032410557,AR-easy,5,Blue Pyramids,Same Color,1.578383,1.745642,-0.004674375
+1688032410557,AR-easy,5,Blue Pyramids,Same Color,1.258472,1.143816,1.070038
+1688032410557,AR-easy,5,Blue Sphere,Same Color,2.75354,2.277276,-0.2874694
+1688032410557,AR-easy,5,Blue Sphere,Same Color,1.930132,1.6336,-0.5603865
+1688032410557,AR-easy,5,Blue Sphere,Same Color,2.358902,0.6001225,-0.4220299
+1688032410557,AR-easy,5,Blue Pyramids,Same Color,2.591763,1.032601,-1.205641
+1688032410557,AR-easy,5,Yellow Cube,Same Shape,2.419106,2.039634,-0.7124496
+1688032410557,AR-easy,5,Yellow Cube,Same Shape,2.472832,1.129448,1.017954
+1688032410557,AR-easy,5,Red Cube,Same Shape,1.613425,1.736845,0.5136997
+1688032410557,AR-easy,5,Yellow Cube,Same Shape,2.668729,2.083337,1.191579
+1688032410557,AR-easy,5,Yellow Cube,Same Shape,2.41837,1.662511,-0.2667716
+1688032410557,AR-easy,5,Purple Cube,Same Shape,2.747078,1.451371,-0.6647475
+1688032410557,AR-easy,5,Purple Cylinder,Different,2.255108,1.878892,0.4611096
+1688032410557,AR-easy,5,Purple Sphere,Different,1.739148,0.6564695,0.597226
+1688032410557,AR-easy,5,Yellow Cylinder,Different,1.614032,1.264544,-0.2494488
+1688032410557,AR-easy,5,Purple Cylinder,Different,0.6060578,0.8883204,-0.2747625
+1688032410557,AR-easy,5,Purple Pyramids,Different,1.143153,0.5820077,-0.6201021
+1688032410557,AR-easy,5,Yellow Sphere,Different,1.798039,0.4076753,-0.2988881
+1688032485083,AR-easy,1,Yellow Cylinder,Target,1.87589,1.305138,-0.9849241
+1688032485083,AR-easy,1,Yellow Pyramids,Same Color,0.75053,1.260594,0.7530121
+1688032485083,AR-easy,1,Yellow Cube,Same Color,1.746418,0.8243471,0.8702167
+1688032485083,AR-easy,1,Yellow Sphere,Same Color,2.349198,1.474956,-0.5656499
+1688032485083,AR-easy,1,Yellow Sphere,Same Color,2.261842,1.615755,0.3898607
+1688032485083,AR-easy,1,Yellow Sphere,Same Color,1.759231,1.169521,-0.4756296
+1688032485083,AR-easy,1,Yellow Sphere,Same Color,2.277383,0.9086001,1.320914
+1688032485083,AR-easy,1,Purple Cylinder,Same Shape,2.529498,0.6412554,0.3640816
+1688032485083,AR-easy,1,Red Cylinder,Same Shape,0.9215585,1.75673,0.8099832
+1688032485083,AR-easy,1,Purple Cylinder,Same Shape,0.6709706,1.491049,0.07378602
+1688032485083,AR-easy,1,Red Cylinder,Same Shape,1.730503,0.9048802,1.42261
+1688032485083,AR-easy,1,Purple Cylinder,Same Shape,2.193538,0.3485865,-0.3874114
+1688032485083,AR-easy,1,Red Cylinder,Same Shape,1.605096,1.360483,0.8309467
+1688032485083,AR-easy,1,Purple Pyramids,Different,2.748719,1.288458,0.6690852
+1688032485083,AR-easy,1,Purple Pyramids,Different,2.595533,1.852084,1.116789
+1688032485083,AR-easy,1,Red Cube,Different,2.652081,2.07192,-1.18224
+1688032485083,AR-easy,1,Red Cube,Different,0.6123227,0.8723494,0.106425
+1688032485083,AR-easy,1,Blue Cube,Different,1.755051,1.449465,0.3484704
+1688032485083,AR-easy,1,Blue Pyramids,Different,1.005188,0.6439466,0.7280495
+1688219911554,VR-difficult,1,Yellow Pyramids,Target,2.337367,0.4578566,-0.2789501
+1688219911554,VR-difficult,1,Yellow Sphere,Same Color,1.126648,1.801431,0.3746324
+1688219911554,VR-difficult,1,Yellow Sphere,Same Color,2.080136,1.247953,1.55914
+1688219911554,VR-difficult,1,Yellow Cylinder,Same Color,0.8477792,1.390216,0.5670377
+1688219911554,VR-difficult,1,Yellow Cube,Same Color,1.198962,1.541725,-0.1022725
+1688219911554,VR-difficult,1,Yellow Cube,Same Color,0.7856312,0.8689987,0.8480238
+1688219911554,VR-difficult,1,Yellow Cylinder,Same Color,2.55339,1.14591,-1.1509
+1688219911554,VR-difficult,1,Yellow Cylinder,Same Color,1.435729,1.760597,-0.8414977
+1688219911554,VR-difficult,1,Yellow Cube,Same Color,2.1161,1.31046,0.4508976
+1688219911554,VR-difficult,1,Yellow Sphere,Same Color,2.472777,2.077255,-1.245093
+1688219911554,VR-difficult,1,Yellow Sphere,Same Color,2.650307,0.1631181,1.676686
+1688219911554,VR-difficult,1,Yellow Cube,Same Color,2.541653,1.551491,1.032266
+1688219911554,VR-difficult,1,Yellow Cube,Same Color,2.191935,0.4919357,1.065628
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,1.892545,0.5356423,0.5674818
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,2.63344,0.8624275,1.299579
+1688219911554,VR-difficult,1,Blue Pyramids,Same Shape,2.50145,0.8126346,0.09271282
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,1.749758,1.966211,0.9303195
+1688219911554,VR-difficult,1,Blue Pyramids,Same Shape,0.9677594,1.05292,-0.6279682
+1688219911554,VR-difficult,1,Blue Pyramids,Same Shape,1.753486,0.5410033,-0.4018386
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,0.6536332,0.7244775,-0.02821946
+1688219911554,VR-difficult,1,Blue Pyramids,Same Shape,1.839448,1.164731,-1.060906
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,2.547271,0.6347377,-0.8413824
+1688219911554,VR-difficult,1,Purple Pyramids,Same Shape,1.72446,1.475612,1.095263
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,2.172901,1.91412,0.2463117
+1688219911554,VR-difficult,1,Red Pyramids,Same Shape,1.142262,1.425157,0.9947105
+1688219911554,VR-difficult,1,Red Sphere,Different,2.132169,1.572935,-0.7308737
+1688219911554,VR-difficult,1,Blue Cube,Different,2.740781,1.293797,-0.5023181
+1688219911554,VR-difficult,1,Blue Sphere,Different,2.729787,1.98126,0.8192729
+1688219911554,VR-difficult,1,Purple Cube,Different,1.716976,0.7395409,0.1150025
+1688219911554,VR-difficult,1,Red Cube,Different,2.455616,1.022036,0.75365
+1688219911554,VR-difficult,1,Purple Sphere,Different,0.7766875,1.730172,-0.3441582
+1688219911554,VR-difficult,1,Purple Cube,Different,2.554497,1.651697,0.04081261
+1688219911554,VR-difficult,1,Red Cylinder,Different,2.60855,2.073972,1.501119
+1688219911554,VR-difficult,1,Red Cube,Different,2.584604,2.204339,-0.106957
+1688219911554,VR-difficult,1,Blue Cylinder,Different,0.4375403,1.607446,0.2057083
+1688219911554,VR-difficult,1,Purple Cube,Different,1.60392,1.540459,0.5478216
+1688219911554,VR-difficult,1,Blue Cube,Different,1.704472,1.593069,-0.2109463
+1688219918822,VR-difficult,2,Blue Sphere,Target,2.124228,0.6786556,0.2537053
+1688219918822,VR-difficult,2,Blue Cube,Same Color,2.54267,1.000262,1.385119
+1688219918822,VR-difficult,2,Blue Cube,Same Color,2.762101,1.336029,-1.05569
+1688219918822,VR-difficult,2,Blue Pyramids,Same Color,2.765049,1.747774,1.007485
+1688219918822,VR-difficult,2,Blue Pyramids,Same Color,0.9722672,0.6178449,0.6977897
+1688219918822,VR-difficult,2,Blue Cube,Same Color,1.48956,1.279003,0.2344217
+1688219918822,VR-difficult,2,Blue Cube,Same Color,1.34224,0.7607657,-0.4501721
+1688219918822,VR-difficult,2,Blue Cylinder,Same Color,2.547007,2.231343,-0.2027247
+1688219918822,VR-difficult,2,Blue Cylinder,Same Color,1.207824,1.227556,-0.6685584
+1688219918822,VR-difficult,2,Blue Cylinder,Same Color,1.908154,0.8118234,1.466031
+1688219918822,VR-difficult,2,Blue Cube,Same Color,0.8640356,0.8624821,-0.1462631
+1688219918822,VR-difficult,2,Blue Cube,Same Color,1.517577,1.607468,0.6584274
+1688219918822,VR-difficult,2,Blue Pyramids,Same Color,1.946409,1.687965,-0.2012579
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,2.572178,0.3613918,0.6398179
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,1.884199,0.3760798,-0.5623952
+1688219918822,VR-difficult,2,Purple Sphere,Same Shape,2.144701,2.072469,1.323583
+1688219918822,VR-difficult,2,Yellow Sphere,Same Shape,2.320601,2.080334,-0.6645199
+1688219918822,VR-difficult,2,Yellow Sphere,Same Shape,1.451095,1.089691,0.7951136
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,2.072763,1.612461,0.2999034
+1688219918822,VR-difficult,2,Purple Sphere,Same Shape,2.413184,2.058192,0.7213206
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,1.120813,1.540717,-0.1124389
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,2.238459,0.6054703,-1.075818
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,2.624702,2.158534,-1.220704
+1688219918822,VR-difficult,2,Purple Sphere,Same Shape,2.547314,1.686222,1.506693
+1688219918822,VR-difficult,2,Red Sphere,Same Shape,1.946833,0.442769,0.851318
+1688219918822,VR-difficult,2,Yellow Cube,Different,0.8970972,1.731293,0.6640396
+1688219918822,VR-difficult,2,Red Cube,Different,2.433797,1.733313,-1.030201
+1688219918822,VR-difficult,2,Yellow Cube,Different,0.4172629,1.393891,0.2391969
+1688219918822,VR-difficult,2,Yellow Cylinder,Different,2.48176,0.2368596,-1.333808
+1688219918822,VR-difficult,2,Red Cube,Different,2.679208,1.62861,0.09211886
+1688219918822,VR-difficult,2,Purple Pyramids,Different,1.461023,1.302836,1.27448
+1688219918822,VR-difficult,2,Purple Cylinder,Different,2.717047,0.7859955,-0.2623878
+1688219918822,VR-difficult,2,Yellow Cube,Different,2.384654,1.381126,-0.495681
+1688219918822,VR-difficult,2,Purple Pyramids,Different,2.056114,1.415891,1.010331
+1688219918822,VR-difficult,2,Red Cube,Different,2.150639,0.7652289,-0.2798256
+1688219918822,VR-difficult,2,Red Cylinder,Different,2.666993,0.3347773,0.07928264
+1688219918822,VR-difficult,2,Red Cylinder,Different,2.63654,0.2372809,-0.5575043
+1688220290419,VR-difficult,0,Red Cylinder,Target,2.533877,2.236073,-0.9556613
+1688220290419,VR-difficult,0,Red Cube,Same Color,1.220328,0.9425283,1.215308
+1688220290419,VR-difficult,0,Red Pyramids,Same Color,2.702829,0.9714043,0.6283505
+1688220290419,VR-difficult,0,Red Sphere,Same Color,2.631332,1.751984,0.7855536
+1688220290419,VR-difficult,0,Red Pyramids,Same Color,2.460434,1.662133,-0.0659923
+1688220290419,VR-difficult,0,Red Pyramids,Same Color,2.414439,0.4885492,-0.3743663
+1688220290419,VR-difficult,0,Red Sphere,Same Color,2.607472,0.9632376,-0.1255478
+1688220290419,VR-difficult,0,Red Sphere,Same Color,2.744924,1.335712,1.228368
+1688220290419,VR-difficult,0,Red Pyramids,Same Color,0.9766566,1.494604,0.5955293
+1688220290419,VR-difficult,0,Red Cube,Same Color,1.122499,0.9808911,0.2862651
+1688220290419,VR-difficult,0,Red Pyramids,Same Color,1.33663,1.794536,-0.4948277
+1688220290419,VR-difficult,0,Red Sphere,Same Color,2.350262,1.189131,0.2427117
+1688220290419,VR-difficult,0,Red Cube,Same Color,2.154699,1.408136,-0.5402936
+1688220290419,VR-difficult,0,Yellow Cylinder,Same Shape,2.473359,0.6187903,0.9000678
+1688220290419,VR-difficult,0,Blue Cylinder,Same Shape,1.504606,1.313226,-0.2424067
+1688220290419,VR-difficult,0,Blue Cylinder,Same Shape,2.112825,2.057656,0.3968607
+1688220290419,VR-difficult,0,Purple Cylinder,Same Shape,1.746179,0.5482038,-0.2625467
+1688220290419,VR-difficult,0,Purple Cylinder,Same Shape,0.7457987,0.8707857,0.8086193
+1688220290419,VR-difficult,0,Purple Cylinder,Same Shape,1.775278,1.126548,0.8493186
+1688220290419,VR-difficult,0,Yellow Cylinder,Same Shape,1.837149,1.322788,-1.071316
+1688220290419,VR-difficult,0,Purple Cylinder,Same Shape,2.152278,0.8220766,-1.186093
+1688220290419,VR-difficult,0,Blue Cylinder,Same Shape,2.139161,0.440563,0.1018449
+1688220290419,VR-difficult,0,Blue Cylinder,Same Shape,2.261871,2.06976,1.561608
+1688220290419,VR-difficult,0,Purple Cylinder,Same Shape,1.791227,1.929655,0.9905576
+1688220290419,VR-difficult,0,Blue Cylinder,Same Shape,1.78354,0.5880611,0.5666212
+1688220290419,VR-difficult,0,Yellow Sphere,Different,1.800507,1.635979,0.2902905
+1688220290419,VR-difficult,0,Yellow Cube,Different,1.703483,1.052821,0.205341
+1688220290419,VR-difficult,0,Yellow Pyramids,Different,2.210281,0.3855688,1.509112
+1688220290419,VR-difficult,0,Blue Sphere,Different,1.384578,0.5326471,-0.724192
+1688220290419,VR-difficult,0,Yellow Pyramids,Different,2.62005,1.835439,-0.5140532
+1688220290419,VR-difficult,0,Blue Cube,Different,2.730218,1.001638,-0.8684337
+1688220290419,VR-difficult,0,Purple Cube,Different,2.646897,0.2466477,-1.432953
+1688220290419,VR-difficult,0,Blue Pyramids,Different,2.555169,0.1467369,0.3786208
+1688220290419,VR-difficult,0,Purple Cube,Different,0.9538674,1.510973,-0.2883117
+1688220290419,VR-difficult,0,Purple Sphere,Different,0.8621054,0.7198345,-0.3171304
+1688220290419,VR-difficult,0,Purple Pyramids,Different,2.678162,2.092078,0.1584934
+1688220290419,VR-difficult,0,Blue Pyramids,Different,1.273118,1.862018,0.2483724
+1688220298181,VR-difficult,1,Yellow Cylinder,Target,2.395378,2.105773,0.1817293
+1688220298181,VR-difficult,1,Yellow Pyramids,Same Color,2.504024,1.071095,0.6926501
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,1.675804,1.399317,0.9709867
+1688220298181,VR-difficult,1,Yellow Cube,Same Color,1.041538,0.6289255,1.134195
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,2.640357,2.099404,-0.4338487
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,2.142023,0.7775508,1.007457
+1688220298181,VR-difficult,1,Yellow Cube,Same Color,2.231753,1.7268,-0.2781228
+1688220298181,VR-difficult,1,Yellow Cube,Same Color,1.170886,1.295895,-0.01252019
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,2.19154,1.068168,-0.3960705
+1688220298181,VR-difficult,1,Yellow Cube,Same Color,0.5282103,1.172799,0.9169258
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,1.825514,0.9055702,1.505514
+1688220298181,VR-difficult,1,Yellow Sphere,Same Color,2.733561,2.256262,1.234564
+1688220298181,VR-difficult,1,Yellow Cube,Same Color,1.166431,1.800095,-0.2221919
+1688220298181,VR-difficult,1,Red Cylinder,Same Shape,2.448249,0.2164521,1.236812
+1688220298181,VR-difficult,1,Red Cylinder,Same Shape,0.4644518,1.384697,0.08162403
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,0.4789873,1.656029,0.7059219
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,2.448633,1.925185,-1.22146
+1688220298181,VR-difficult,1,Blue Cylinder,Same Shape,2.246917,1.232515,-1.166627
+1688220298181,VR-difficult,1,Red Cylinder,Same Shape,2.401987,0.7980943,0.2079214
+1688220298181,VR-difficult,1,Red Cylinder,Same Shape,2.123794,1.620092,1.437754
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,1.800234,0.4144502,1.076651
+1688220298181,VR-difficult,1,Blue Cylinder,Same Shape,1.700397,1.722056,0.241451
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,2.658064,2.222769,1.854811
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,2.329132,0.6322861,-0.6557746
+1688220298181,VR-difficult,1,Purple Cylinder,Same Shape,2.727276,0.5410264,-0.08792979
+1688220298181,VR-difficult,1,Red Sphere,Different,2.542706,1.493098,-0.6296725
+1688220298181,VR-difficult,1,Purple Sphere,Different,2.749689,0.9805511,-1.347484
+1688220298181,VR-difficult,1,Purple Cube,Different,2.541124,1.829185,0.6520313
+1688220298181,VR-difficult,1,Purple Pyramids,Different,1.324782,0.5145158,-0.3841469
+1688220298181,VR-difficult,1,Red Pyramids,Different,1.651684,1.158625,-0.2143059
+1688220298181,VR-difficult,1,Blue Cube,Different,0.5585579,0.923727,-0.4974768
+1688220298181,VR-difficult,1,Blue Pyramids,Different,1.796491,2.060305,-0.2292125
+1688220298181,VR-difficult,1,Blue Sphere,Different,1.555543,1.24515,-0.929108
+1688220298181,VR-difficult,1,Red Pyramids,Different,1.659297,0.9430968,0.5434967
+1688220298181,VR-difficult,1,Purple Cube,Different,1.920454,1.932472,-0.8681131
+1688220298181,VR-difficult,1,Red Sphere,Different,2.62696,0.3294701,0.4101405
+1688220298181,VR-difficult,1,Red Sphere,Different,2.570204,0.1474773,-0.3821017
+1688220305948,VR-difficult,2,Blue Pyramids,Target,1.635098,0.8197339,0.6757731
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,1.88694,0.7351056,-0.4380561
+1688220305948,VR-difficult,2,Blue Sphere,Same Color,1.543083,1.99824,1.201605
+1688220305948,VR-difficult,2,Blue Cube,Same Color,2.568148,0.4790355,0.8761798
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,2.291191,0.8301053,0.2181061
+1688220305948,VR-difficult,2,Blue Sphere,Same Color,2.661421,1.120304,0.5580409
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,2.576189,1.260909,-0.2982215
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,1.72048,1.330361,0.01111919
+1688220305948,VR-difficult,2,Blue Sphere,Same Color,2.607967,1.879585,0.04070252
+1688220305948,VR-difficult,2,Blue Sphere,Same Color,1.261048,1.10788,1.12297
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,1.220669,1.781957,0.2471158
+1688220305948,VR-difficult,2,Blue Cylinder,Same Color,2.590302,1.692593,1.195708
+1688220305948,VR-difficult,2,Blue Sphere,Same Color,1.682171,1.429204,-0.9495959
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,1.4957,0.6017491,-0.8792272
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,2.390731,0.3777196,-0.6994653
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,1.747673,1.862663,-0.2477173
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,1.040089,1.247211,0.2065034
+1688220305948,VR-difficult,2,Purple Pyramids,Same Shape,2.487563,0.3634771,1.759092
+1688220305948,VR-difficult,2,Red Pyramids,Same Shape,0.9230064,1.253487,-0.546234
+1688220305948,VR-difficult,2,Purple Pyramids,Same Shape,0.7256323,1.28273,0.8205841
+1688220305948,VR-difficult,2,Red Pyramids,Same Shape,2.607013,1.774707,0.5345985
+1688220305948,VR-difficult,2,Red Pyramids,Same Shape,2.656678,1.002573,1.057781
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,2.308366,0.5303109,1.301091
+1688220305948,VR-difficult,2,Yellow Pyramids,Same Shape,1.78334,0.4709994,1.045024
+1688220305948,VR-difficult,2,Red Pyramids,Same Shape,2.708208,0.1495025,0.401073
+1688220305948,VR-difficult,2,Yellow Cylinder,Different,2.269934,1.383169,0.1837762
+1688220305948,VR-difficult,2,Red Sphere,Different,2.571686,0.7132961,-1.183281
+1688220305948,VR-difficult,2,Purple Cube,Different,2.713757,0.4432054,-0.305186
+1688220305948,VR-difficult,2,Red Cylinder,Different,1.824114,2.052006,-0.9597888
+1688220305948,VR-difficult,2,Yellow Cube,Different,0.701098,1.806236,0.6657398
+1688220305948,VR-difficult,2,Yellow Sphere,Different,0.7214877,1.782026,0.08468705
+1688220305948,VR-difficult,2,Purple Sphere,Different,1.688672,0.4256825,-0.03861588
+1688220305948,VR-difficult,2,Yellow Cylinder,Different,2.015849,0.9299721,1.395839
+1688220305948,VR-difficult,2,Purple Cube,Different,2.330586,2.076827,0.9928372
+1688220305948,VR-difficult,2,Red Cube,Different,2.039766,1.143994,0.6254268
+1688220305948,VR-difficult,2,Purple Cube,Different,1.433673,1.539828,0.8032885
+1688220305948,VR-difficult,2,Red Sphere,Different,1.650478,1.468502,1.377349
+1688220313708,VR-difficult,3,Yellow Cube,Target,1.489453,0.7482156,-0.3771636
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.595108,0.9037132,0.1175207
+1688220313708,VR-difficult,3,Yellow Pyramids,Same Color,2.498398,1.984415,-0.7408456
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.035658,1.195164,-0.4480793
+1688220313708,VR-difficult,3,Yellow Cylinder,Same Color,2.742782,1.762085,1.19943
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,2.070874,1.446551,1.386635
+1688220313708,VR-difficult,3,Yellow Cylinder,Same Color,0.7791487,1.482333,0.9193139
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.786412,1.416303,0.6075944
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.851824,1.936311,-0.5164406
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,2.390787,0.4204999,1.057949
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.7777,1.463405,-0.2072072
+1688220313708,VR-difficult,3,Yellow Cylinder,Same Color,1.974141,0.334314,0.7703451
+1688220313708,VR-difficult,3,Yellow Sphere,Same Color,1.065815,0.7781418,0.6735263
+1688220313708,VR-difficult,3,Purple Cube,Same Shape,2.469429,1.41403,0.1916395
+1688220313708,VR-difficult,3,Red Cube,Same Shape,2.618995,0.875146,1.394123
+1688220313708,VR-difficult,3,Blue Cube,Same Shape,2.532065,2.055762,1.612204
+1688220313708,VR-difficult,3,Red Cube,Same Shape,2.725902,1.438405,-0.63535
+1688220313708,VR-difficult,3,Red Cube,Same Shape,2.444514,0.549405,-1.038817
+1688220313708,VR-difficult,3,Purple Cube,Same Shape,2.730448,1.115292,0.585479
+1688220313708,VR-difficult,3,Red Cube,Same Shape,1.673924,1.972101,1.387863
+1688220313708,VR-difficult,3,Blue Cube,Same Shape,1.955371,0.5197429,0.140837
+1688220313708,VR-difficult,3,Red Cube,Same Shape,0.4532858,1.065159,0.1442835
+1688220313708,VR-difficult,3,Blue Cube,Same Shape,2.258303,1.132885,-0.6486697
+1688220313708,VR-difficult,3,Blue Cube,Same Shape,1.390343,1.904222,-0.7990315
+1688220313708,VR-difficult,3,Blue Cube,Same Shape,0.6012895,1.792729,0.2516105
+1688220313708,VR-difficult,3,Blue Pyramids,Different,0.4879187,1.330253,-0.4030067
+1688220313708,VR-difficult,3,Red Pyramids,Different,2.719158,0.2459606,1.814966
+1688220313708,VR-difficult,3,Purple Cylinder,Different,2.35591,0.9213976,0.12466
+1688220313708,VR-difficult,3,Red Pyramids,Different,2.346939,1.30696,-1.122413
+1688220313708,VR-difficult,3,Blue Sphere,Different,1.616546,1.35024,1.094898
+1688220313708,VR-difficult,3,Blue Pyramids,Different,2.32831,1.556165,0.8326235
+1688220313708,VR-difficult,3,Purple Cylinder,Different,2.583709,0.247251,-0.3321739
+1688220313708,VR-difficult,3,Red Cylinder,Different,2.25439,0.5602642,1.637222
+1688220313708,VR-difficult,3,Blue Cylinder,Different,1.850571,1.436708,-0.9030204
+1688220313708,VR-difficult,3,Blue Cylinder,Different,2.324847,1.899765,-0.1115378
+1688220313708,VR-difficult,3,Red Pyramids,Different,1.257129,1.870038,0.2025717
+1688220313708,VR-difficult,3,Blue Pyramids,Different,1.179361,1.720796,0.7297795
+1688220325614,VR-difficult,0,Yellow Sphere,Target,2.742106,1.122882,1.873447
+1688220325614,VR-difficult,0,Yellow Pyramids,Same Color,1.275896,1.623586,1.273833
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,2.130338,2.111738,1.148092
+1688220325614,VR-difficult,0,Yellow Cube,Same Color,0.5123477,0.7686441,0.1366055
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,1.728318,0.689544,-0.4654943
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,2.647759,0.6065737,1.35511
+1688220325614,VR-difficult,0,Yellow Cube,Same Color,2.26208,1.278264,-0.381734
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,2.179072,2.126527,0.5852764
+1688220325614,VR-difficult,0,Yellow Cube,Same Color,1.485639,1.664145,-0.9299434
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,0.9653741,1.057991,-0.269859
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,1.188786,1.101592,1.210863
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,1.281866,0.7118636,0.656251
+1688220325614,VR-difficult,0,Yellow Cylinder,Same Color,1.757259,1.020823,0.8669773
+1688220325614,VR-difficult,0,Red Sphere,Same Shape,2.76924,0.08244919,0.5260175
+1688220325614,VR-difficult,0,Blue Sphere,Same Shape,2.045729,0.3235146,1.325838
+1688220325614,VR-difficult,0,Purple Sphere,Same Shape,2.267543,0.8141108,-0.7685884
+1688220325614,VR-difficult,0,Purple Sphere,Same Shape,1.647192,0.7141666,1.432333
+1688220325614,VR-difficult,0,Blue Sphere,Same Shape,2.663223,1.410231,0.7543184
+1688220325614,VR-difficult,0,Blue Sphere,Same Shape,1.646156,1.881383,0.4674074
+1688220325614,VR-difficult,0,Blue Sphere,Same Shape,0.4975185,1.270983,-0.1359938
+1688220325614,VR-difficult,0,Purple Sphere,Same Shape,2.769019,1.265683,-1.286615
+1688220325614,VR-difficult,0,Purple Sphere,Same Shape,1.157638,1.727606,-0.05943078
+1688220325614,VR-difficult,0,Blue Sphere,Same Shape,2.400835,2.121958,-0.2043466
+1688220325614,VR-difficult,0,Red Sphere,Same Shape,2.692792,1.130773,0.005774856
+1688220325614,VR-difficult,0,Purple Sphere,Same Shape,1.065176,1.674805,0.7446092
+1688220325614,VR-difficult,0,Blue Cylinder,Different,2.128502,1.483505,0.5791905
+1688220325614,VR-difficult,0,Purple Cylinder,Different,1.948985,0.6899536,0.4519989
+1688220325614,VR-difficult,0,Red Cube,Different,2.733067,2.214922,0.5435783
+1688220325614,VR-difficult,0,Red Cube,Different,1.883433,1.628327,-0.1630516
+1688220325614,VR-difficult,0,Purple Pyramids,Different,2.662805,1.698885,1.239006
+1688220325614,VR-difficult,0,Blue Cube,Different,2.69411,0.8178135,-0.4461783
+1688220325614,VR-difficult,0,Red Cylinder,Different,2.614292,0.3588334,-0.8751704
+1688220325614,VR-difficult,0,Blue Cylinder,Different,0.7269471,1.297373,0.6922358
+1688220325614,VR-difficult,0,Blue Cube,Different,2.336715,1.951885,-1.295195
+1688220325614,VR-difficult,0,Red Cube,Different,1.698975,1.219485,1.405753
+1688220325614,VR-difficult,0,Blue Pyramids,Different,2.352949,1.745176,-0.7994886
+1688220325614,VR-difficult,0,Red Pyramids,Different,1.545084,0.4516557,0.246684
+1688220333377,VR-difficult,1,Blue Pyramids,Target,0.8516873,1.060928,0.4495389
+1688220333377,VR-difficult,1,Blue Cylinder,Same Color,2.583328,2.209232,1.697719
+1688220333377,VR-difficult,1,Blue Cube,Same Color,2.373732,1.399034,0.5668829
+1688220333377,VR-difficult,1,Blue Sphere,Same Color,1.848572,0.912342,-0.96749
+1688220333377,VR-difficult,1,Blue Cube,Same Color,2.016559,0.7478403,1.370309
+1688220333377,VR-difficult,1,Blue Cylinder,Same Color,2.140447,1.536293,-0.5381415
+1688220333377,VR-difficult,1,Blue Cube,Same Color,2.069541,0.4630964,-0.1491892
+1688220333377,VR-difficult,1,Blue Cube,Same Color,2.353004,0.6785652,-1.072184
+1688220333377,VR-difficult,1,Blue Sphere,Same Color,1.811733,2.039415,0.3663136
+1688220333377,VR-difficult,1,Blue Cylinder,Same Color,1.583056,0.5879402,0.7308415
+1688220333377,VR-difficult,1,Blue Cube,Same Color,2.652914,1.201664,-0.1444758
+1688220333377,VR-difficult,1,Blue Cylinder,Same Color,1.547138,1.870351,-0.1176561
+1688220333377,VR-difficult,1,Blue Cube,Same Color,1.323074,1.508036,0.6748003
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,2.696979,2.096231,-0.7756412
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,0.6675761,1.552701,0.7924906
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,1.392449,1.969402,-0.6374354
+1688220333377,VR-difficult,1,Red Pyramids,Same Shape,0.8259822,0.7408358,0.9154571
+1688220333377,VR-difficult,1,Red Pyramids,Same Shape,0.6487762,1.430574,-0.206688
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,2.742365,2.247762,0.7876427
+1688220333377,VR-difficult,1,Red Pyramids,Same Shape,1.126376,0.5712416,-0.6404424
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,1.628885,1.108257,1.317059
+1688220333377,VR-difficult,1,Purple Pyramids,Same Shape,2.066283,2.074972,-0.2280602
+1688220333377,VR-difficult,1,Red Pyramids,Same Shape,1.570943,0.69858,-0.1300957
+1688220333377,VR-difficult,1,Yellow Pyramids,Same Shape,2.306239,1.176755,1.052811
+1688220333377,VR-difficult,1,Red Pyramids,Same Shape,1.792773,1.059834,0.6316167
+1688220333377,VR-difficult,1,Purple Cube,Different,1.750951,1.347581,-0.05636209
+1688220333377,VR-difficult,1,Red Cube,Different,2.747808,0.2683238,0.2713723
+1688220333377,VR-difficult,1,Red Sphere,Different,1.401781,1.569018,1.271728
+1688220333377,VR-difficult,1,Purple Cylinder,Different,2.703738,0.7044165,1.027156
+1688220333377,VR-difficult,1,Purple Cube,Different,2.090017,1.957333,-0.927361
+1688220333377,VR-difficult,1,Purple Cube,Different,2.742946,1.302493,-1.353391
+1688220333377,VR-difficult,1,Yellow Cube,Different,2.63441,0.20006,1.047534
+1688220333377,VR-difficult,1,Yellow Cylinder,Different,2.75945,0.8179888,-0.4801011
+1688220333377,VR-difficult,1,Purple Cube,Different,2.506345,1.808702,0.1204942
+1688220333377,VR-difficult,1,Red Sphere,Different,2.359483,1.525576,1.553396
+1688220333377,VR-difficult,1,Red Cube,Different,2.729685,1.133164,1.772559
+1688220333377,VR-difficult,1,Red Sphere,Different,2.735189,0.110306,-0.6989917
+1688220341136,VR-difficult,2,Red Cube,Target,0.6172361,0.8282666,-0.2573519
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,1.710275,1.562906,0.3635123
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,2.650319,2.172251,0.6229377
+1688220341136,VR-difficult,2,Red Cylinder,Same Color,1.774253,1.235783,-0.4267001
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,0.5375652,1.565606,0.1733639
+1688220341136,VR-difficult,2,Red Cylinder,Same Color,1.437272,1.201674,0.9249735
+1688220341136,VR-difficult,2,Red Sphere,Same Color,2.338726,1.76231,0.3315523
+1688220341136,VR-difficult,2,Red Cylinder,Same Color,2.471965,1.013026,0.9069316
+1688220341136,VR-difficult,2,Red Sphere,Same Color,1.183763,1.431569,-0.2865723
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,0.4244649,1.587082,0.8775425
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,1.914514,1.929219,-0.1208218
+1688220341136,VR-difficult,2,Red Cylinder,Same Color,2.702892,2.069314,1.817607
+1688220341136,VR-difficult,2,Red Pyramids,Same Color,2.37374,0.5482319,0.4544802
+1688220341136,VR-difficult,2,Blue Cube,Same Shape,2.680712,0.4755753,1.070697
+1688220341136,VR-difficult,2,Blue Cube,Same Shape,2.532698,0.746642,-0.5802486
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,2.7237,1.752498,-1.377126
+1688220341136,VR-difficult,2,Yellow Cube,Same Shape,2.354897,0.7033295,-1.291318
+1688220341136,VR-difficult,2,Yellow Cube,Same Shape,2.076392,1.983147,1.407961
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,2.246328,1.286161,-1.195388
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,2.641938,0.278139,-0.2617012
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,2.524408,2.190481,-0.9863234
+1688220341136,VR-difficult,2,Blue Cube,Same Shape,1.880627,1.97988,0.8216591
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,1.673666,1.8829,-0.6791393
+1688220341136,VR-difficult,2,Yellow Cube,Same Shape,2.480161,0.9949005,-0.1200239
+1688220341136,VR-difficult,2,Purple Cube,Same Shape,1.575649,0.8528217,0.102354
+1688220341136,VR-difficult,2,Yellow Sphere,Different,2.374067,1.70452,1.014935
+1688220341136,VR-difficult,2,Purple Sphere,Different,1.364491,1.850274,0.7504151
+1688220341136,VR-difficult,2,Yellow Sphere,Different,1.37235,0.5646189,-0.4091164
+1688220341136,VR-difficult,2,Blue Cylinder,Different,0.5872607,0.7435912,0.9058135
+1688220341136,VR-difficult,2,Yellow Cylinder,Different,2.544712,1.641505,-0.4553738
+1688220341136,VR-difficult,2,Purple Cylinder,Different,2.663473,0.1172626,-0.9435601
+1688220341136,VR-difficult,2,Blue Pyramids,Different,1.971585,0.6137233,-0.4964651
+1688220341136,VR-difficult,2,Yellow Pyramids,Different,1.091838,0.7426021,1.167487
+1688220341136,VR-difficult,2,Purple Cylinder,Different,1.887763,0.4376678,0.03832656
+1688220341136,VR-difficult,2,Yellow Sphere,Different,2.690152,0.8740839,1.658176
+1688220341136,VR-difficult,2,Blue Pyramids,Different,2.749387,1.312664,-0.9105322
+1688220341136,VR-difficult,2,Yellow Cylinder,Different,1.745249,0.6767431,0.7612922
+1688224247719,VR-difficult,1,Purple Pyramids,Target,2.220648,0.6226674,0.5157469
+1688224247719,VR-difficult,1,Purple Cylinder,Same Color,2.617935,0.4127202,0.2750849
+1688224247719,VR-difficult,1,Purple Sphere,Same Color,1.550779,1.046762,0.517719
+1688224247719,VR-difficult,1,Purple Cylinder,Same Color,0.9390705,1.4002,-0.5428029
+1688224247719,VR-difficult,1,Purple Sphere,Same Color,2.162733,0.3435023,1.207033
+1688224247719,VR-difficult,1,Purple Sphere,Same Color,1.768744,0.9932638,-0.9667817
+1688224247719,VR-difficult,1,Purple Sphere,Same Color,2.19024,1.181466,1.321682
+1688224247719,VR-difficult,1,Purple Cube,Same Color,2.309649,1.162742,0.562553
+1688224247719,VR-difficult,1,Purple Cube,Same Color,0.967366,1.771969,1.144095
+1688224247719,VR-difficult,1,Purple Cylinder,Same Color,1.527971,1.929385,0.3637187
+1688224247719,VR-difficult,1,Purple Cylinder,Same Color,2.701434,2.048011,0.5251013
+1688224247719,VR-difficult,1,Purple Cylinder,Same Color,2.732469,0.68473,0.8112809
+1688224247719,VR-difficult,1,Purple Sphere,Same Color,2.734622,0.486183,1.772395
+1688224247719,VR-difficult,1,Blue Pyramids,Same Shape,2.341738,1.100891,-0.6903698
+1688224247719,VR-difficult,1,Red Pyramids,Same Shape,2.683523,0.8830914,-1.308813
+1688224247719,VR-difficult,1,Yellow Pyramids,Same Shape,2.052049,1.476069,-1.075414
+1688224247719,VR-difficult,1,Yellow Pyramids,Same Shape,1.438779,1.440945,0.1263338
+1688224247719,VR-difficult,1,Yellow Pyramids,Same Shape,1.094366,1.883465,0.03628129
+1688224247719,VR-difficult,1,Blue Pyramids,Same Shape,0.930858,0.8293119,0.4665315
+1688224247719,VR-difficult,1,Red Pyramids,Same Shape,2.020721,2.054587,0.1740977
+1688224247719,VR-difficult,1,Red Pyramids,Same Shape,0.4490691,1.059202,-0.178974
+1688224247719,VR-difficult,1,Red Pyramids,Same Shape,2.180671,1.982051,1.257796
+1688224247719,VR-difficult,1,Red Pyramids,Same Shape,2.370046,1.10304,-0.1737354
+1688224247719,VR-difficult,1,Blue Pyramids,Same Shape,2.383987,0.4999753,-0.4039265
+1688224247719,VR-difficult,1,Blue Pyramids,Same Shape,2.593251,1.549136,0.154281
+1688224247719,VR-difficult,1,Red Sphere,Different,2.663302,1.555733,-0.4397561
+1688224247719,VR-difficult,1,Yellow Cube,Different,2.133892,1.982281,-0.9819748
+1688224247719,VR-difficult,1,Red Sphere,Different,2.594472,2.138012,1.571963
+1688224247719,VR-difficult,1,Red Cylinder,Different,1.291843,0.6065554,0.1900208
+1688224247719,VR-difficult,1,Yellow Cube,Different,1.184804,1.112483,0.9223806
+1688224247719,VR-difficult,1,Blue Cube,Different,0.4779117,0.801963,0.7344887
+1688224247719,VR-difficult,1,Yellow Cylinder,Different,1.834047,0.492933,-1.018092
+1688224247719,VR-difficult,1,Yellow Cube,Different,1.960649,0.6951415,-0.2022489
+1688224247719,VR-difficult,1,Red Cube,Different,2.570073,0.8005098,1.324938
+1688224247719,VR-difficult,1,Red Cylinder,Different,1.872071,1.802568,-0.4213603
+1688224247719,VR-difficult,1,Yellow Cube,Different,1.382315,1.423299,-0.8576902
+1688224247719,VR-difficult,1,Yellow Sphere,Different,2.721079,1.245843,1.834038
+1688224255228,VR-difficult,2,Red Pyramids,Target,1.996148,1.580117,-0.3166376
+1688224255228,VR-difficult,2,Red Sphere,Same Color,2.252038,1.475613,1.370558
+1688224255228,VR-difficult,2,Red Cube,Same Color,1.467107,1.323786,-0.7124069
+1688224255228,VR-difficult,2,Red Cube,Same Color,2.457911,0.5703132,1.394862
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,0.6138473,1.561731,-0.01526505
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,2.757622,1.374573,-0.7871615
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,1.669554,1.531948,0.8575374
+1688224255228,VR-difficult,2,Red Sphere,Same Color,2.001832,0.4885918,-0.8846397
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,2.586551,1.157548,0.6795426
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,2.740941,0.822965,1.849078
+1688224255228,VR-difficult,2,Red Cube,Same Color,0.9042391,0.6767156,-0.4864738
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,2.510515,0.5710133,-1.176324
+1688224255228,VR-difficult,2,Red Cylinder,Same Color,1.51861,0.5660789,0.4604201
+1688224255228,VR-difficult,2,Blue Pyramids,Same Shape,1.155945,1.16514,0.4301916
+1688224255228,VR-difficult,2,Yellow Pyramids,Same Shape,2.123324,1.931413,1.012423
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,2.735138,1.258696,1.204351
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,2.684121,0.2348315,0.4621058
+1688224255228,VR-difficult,2,Yellow Pyramids,Same Shape,0.992674,0.7240572,0.690414
+1688224255228,VR-difficult,2,Yellow Pyramids,Same Shape,1.057796,1.615945,0.9299107
+1688224255228,VR-difficult,2,Blue Pyramids,Same Shape,2.385339,1.990622,-0.6161176
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,1.875928,1.07417,1.189505
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,2.632398,1.918926,0.02860081
+1688224255228,VR-difficult,2,Yellow Pyramids,Same Shape,2.499314,2.212746,1.4948
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,2.724172,0.7784083,-0.6437471
+1688224255228,VR-difficult,2,Purple Pyramids,Same Shape,2.051854,0.8745096,-0.00467968
+1688224255228,VR-difficult,2,Purple Cube,Different,0.525716,1.059171,0.03314275
+1688224255228,VR-difficult,2,Yellow Cube,Different,1.692037,1.986067,-0.9840409
+1688224255228,VR-difficult,2,Blue Sphere,Different,2.438705,1.822597,-1.24882
+1688224255228,VR-difficult,2,Yellow Cylinder,Different,1.315784,1.804244,0.02510679
+1688224255228,VR-difficult,2,Blue Cube,Different,2.650785,2.234224,0.809765
+1688224255228,VR-difficult,2,Blue Cube,Different,1.931141,1.17792,0.5466755
+1688224255228,VR-difficult,2,Yellow Sphere,Different,1.990489,0.3489211,0.6253253
+1688224255228,VR-difficult,2,Yellow Sphere,Different,2.582764,0.6917154,0.1512176
+1688224255228,VR-difficult,2,Purple Cylinder,Different,2.770004,0.2806993,-0.2839287
+1688224255228,VR-difficult,2,Yellow Cylinder,Different,1.879299,0.4643555,1.523698
+1688224255228,VR-difficult,2,Purple Sphere,Different,1.469125,0.6863669,-0.8650473
+1688224255228,VR-difficult,2,Blue Cylinder,Different,1.526754,0.9384881,-0.3247194
+1688224262991,VR-difficult,3,Purple Pyramids,Target,2.594295,1.124493,0.4056966
+1688224262991,VR-difficult,3,Purple Cube,Same Color,2.753546,2.184137,1.273431
+1688224262991,VR-difficult,3,Purple Cylinder,Same Color,1.162532,1.34702,-0.614499
+1688224262991,VR-difficult,3,Purple Sphere,Same Color,1.402944,0.6270841,0.6053721
+1688224262991,VR-difficult,3,Purple Cylinder,Same Color,2.729451,0.9203553,1.526299
+1688224262991,VR-difficult,3,Purple Cube,Same Color,2.111532,1.584293,-0.06688249
+1688224262991,VR-difficult,3,Purple Cube,Same Color,0.4869296,1.555149,0.2707372
+1688224262991,VR-difficult,3,Purple Cylinder,Same Color,1.934852,0.714229,1.204954
+1688224262991,VR-difficult,3,Purple Cylinder,Same Color,2.379281,1.59539,-1.320349
+1688224262991,VR-difficult,3,Purple Cube,Same Color,2.491692,2.050887,-0.6950966
+1688224262991,VR-difficult,3,Purple Cube,Same Color,2.34168,1.575328,0.8620626
+1688224262991,VR-difficult,3,Purple Cylinder,Same Color,2.109184,1.425449,1.483649
+1688224262991,VR-difficult,3,Purple Sphere,Same Color,1.638247,1.026904,-0.7087994
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,1.098487,0.5851197,-0.4227104
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,2.69399,0.1416745,-1.436064
+1688224262991,VR-difficult,3,Yellow Pyramids,Same Shape,0.4431567,0.9153064,0.4658862
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,0.8811632,1.713983,0.8228629
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,2.088601,0.5972186,-0.6029288
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,2.647563,1.787783,0.2382892
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,2.650119,0.7670532,-0.1304379
+1688224262991,VR-difficult,3,Yellow Pyramids,Same Shape,1.932574,0.5900096,0.2994357
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,1.300207,1.089236,0.03411132
+1688224262991,VR-difficult,3,Blue Pyramids,Same Shape,1.569998,1.315914,0.562391
+1688224262991,VR-difficult,3,Red Pyramids,Same Shape,2.323072,0.2804937,-1.108704
+1688224262991,VR-difficult,3,Yellow Pyramids,Same Shape,2.422197,0.4409965,0.2489929
+1688224262991,VR-difficult,3,Red Cube,Different,1.70756,1.827177,-0.537927
+1688224262991,VR-difficult,3,Red Sphere,Different,1.984735,1.406273,-0.5306793
+1688224262991,VR-difficult,3,Red Sphere,Different,1.426726,1.054307,1.295152
+1688224262991,VR-difficult,3,Yellow Sphere,Different,0.8990717,1.805387,-0.02343953
+1688224262991,VR-difficult,3,Blue Cylinder,Different,2.459342,0.5112064,1.355404
+1688224262991,VR-difficult,3,Blue Sphere,Different,2.761,1.941985,1.795005
+1688224262991,VR-difficult,3,Red Cube,Different,0.886834,1.103984,1.048695
+1688224262991,VR-difficult,3,Yellow Cylinder,Different,0.5962822,1.145376,-0.01195788
+1688224262991,VR-difficult,3,Yellow Sphere,Different,1.50737,1.857212,0.9063506
+1688224262991,VR-difficult,3,Blue Cylinder,Different,2.622967,0.8182765,-0.6674585
+1688224262991,VR-difficult,3,Yellow Cube,Different,1.785529,1.836671,0.2516971
+1688224262991,VR-difficult,3,Blue Cube,Different,2.322843,0.3140089,0.7972993
+1688224270503,VR-difficult,4,Yellow Cube,Target,1.116141,1.414428,-0.03964227
+1688224270503,VR-difficult,4,Yellow Sphere,Same Color,2.530545,1.642967,-1.367741
+1688224270503,VR-difficult,4,Yellow Sphere,Same Color,1.606578,1.862159,-0.4104308
+1688224270503,VR-difficult,4,Yellow Cylinder,Same Color,2.764122,1.472539,-0.02306616
+1688224270503,VR-difficult,4,Yellow Pyramids,Same Color,2.704963,1.603805,1.622027
+1688224270503,VR-difficult,4,Yellow Pyramids,Same Color,2.068316,0.8588839,-0.1330132
+1688224270503,VR-difficult,4,Yellow Cylinder,Same Color,2.111351,0.8443171,-1.007054
+1688224270503,VR-difficult,4,Yellow Pyramids,Same Color,0.8105421,1.209458,0.5819095
+1688224270503,VR-difficult,4,Yellow Sphere,Same Color,2.679463,2.125562,0.3187038
+1688224270503,VR-difficult,4,Yellow Cylinder,Same Color,0.4987628,1.176368,-0.1855254
+1688224270503,VR-difficult,4,Yellow Cylinder,Same Color,2.720354,0.3253981,1.412388
+1688224270503,VR-difficult,4,Yellow Pyramids,Same Color,1.39071,1.666536,1.114278
+1688224270503,VR-difficult,4,Yellow Pyramids,Same Color,2.103979,1.187856,0.7255952
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,1.671716,0.7776361,1.100338
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,0.9870099,0.6240283,0.3075212
+1688224270503,VR-difficult,4,Purple Cube,Same Shape,2.15189,1.935338,0.3627298
+1688224270503,VR-difficult,4,Red Cube,Same Shape,2.407367,1.618483,-0.4135588
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,2.768459,0.3547587,0.6014087
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,2.435706,0.5504907,-0.3178605
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,1.480696,0.8241066,-0.4686081
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,1.792249,1.607148,0.5410313
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,2.145472,0.277487,0.05751705
+1688224270503,VR-difficult,4,Red Cube,Same Shape,2.081051,1.391891,1.394967
+1688224270503,VR-difficult,4,Purple Cube,Same Shape,2.019001,2.100653,-0.8909427
+1688224270503,VR-difficult,4,Blue Cube,Same Shape,1.513244,0.7331958,0.4770579
+1688224270503,VR-difficult,4,Purple Sphere,Different,2.297846,2.123241,-0.3927585
+1688224270503,VR-difficult,4,Blue Pyramids,Different,0.7461144,1.779194,0.7032428
+1688224270503,VR-difficult,4,Red Cylinder,Different,2.274839,0.2774766,0.8652117
+1688224270503,VR-difficult,4,Red Sphere,Different,1.417447,1.598688,-0.8900466
+1688224270503,VR-difficult,4,Blue Pyramids,Different,2.617598,0.6160091,-1.394632
+1688224270503,VR-difficult,4,Red Pyramids,Different,2.755058,1.326535,0.7493421
+1688224270503,VR-difficult,4,Blue Cylinder,Different,2.743176,2.033939,0.8674662
+1688224270503,VR-difficult,4,Purple Sphere,Different,2.18549,0.7624499,1.512095
+1688224270503,VR-difficult,4,Red Sphere,Different,0.9208375,1.281046,-0.6675301
+1688224270503,VR-difficult,4,Purple Sphere,Different,0.42103,1.542032,0.3514269
+1688224270503,VR-difficult,4,Red Pyramids,Different,0.4246325,0.8050313,0.2303683
+1688224270503,VR-difficult,4,Blue Pyramids,Different,1.941004,1.213214,-0.5688905
+1688224277765,VR-difficult,5,Blue Sphere,Target,1.865477,1.302114,0.2696212
+1688224277765,VR-difficult,5,Blue Cylinder,Same Color,1.42394,1.771787,0.9634874
+1688224277765,VR-difficult,5,Blue Cube,Same Color,2.621056,1.103894,0.8672862
+1688224277765,VR-difficult,5,Blue Cylinder,Same Color,2.293926,0.4973686,1.492158
+1688224277765,VR-difficult,5,Blue Cube,Same Color,1.991215,1.749826,1.343837
+1688224277765,VR-difficult,5,Blue Cube,Same Color,1.141196,1.543802,0.3219537
+1688224277765,VR-difficult,5,Blue Cylinder,Same Color,0.8411424,1.205345,-0.2688413
+1688224277765,VR-difficult,5,Blue Cube,Same Color,2.707575,0.4435422,-0.7986239
+1688224277765,VR-difficult,5,Blue Pyramids,Same Color,2.481835,1.99413,1.615716
+1688224277765,VR-difficult,5,Blue Cube,Same Color,1.66073,1.977153,0.1343518
+1688224277765,VR-difficult,5,Blue Pyramids,Same Color,1.817589,1.720605,0.5697992
+1688224277765,VR-difficult,5,Blue Cylinder,Same Color,1.937556,1.539724,-0.3720468
+1688224277765,VR-difficult,5,Blue Cube,Same Color,2.566098,0.3179035,-0.2448647
+1688224277765,VR-difficult,5,Red Sphere,Same Shape,2.355852,1.741343,-0.7012937
+1688224277765,VR-difficult,5,Red Sphere,Same Shape,1.894933,0.744725,0.2996311
+1688224277765,VR-difficult,5,Purple Sphere,Same Shape,2.753884,1.39638,1.282334
+1688224277765,VR-difficult,5,Purple Sphere,Same Shape,1.314898,0.7036424,1.278814
+1688224277765,VR-difficult,5,Red Sphere,Same Shape,2.65853,0.9983157,-0.3565479
+1688224277765,VR-difficult,5,Red Sphere,Same Shape,2.471729,2.156887,-0.3781818
+1688224277765,VR-difficult,5,Yellow Sphere,Same Shape,2.698789,0.415529,1.80779
+1688224277765,VR-difficult,5,Red Sphere,Same Shape,1.26765,1.201892,0.8227621
+1688224277765,VR-difficult,5,Yellow Sphere,Same Shape,1.472729,1.38106,-0.6471746
+1688224277765,VR-difficult,5,Yellow Sphere,Same Shape,2.485881,0.5085353,-1.335278
+1688224277765,VR-difficult,5,Yellow Sphere,Same Shape,1.819094,0.7413353,1.361123
+1688224277765,VR-difficult,5,Yellow Sphere,Same Shape,0.6452382,1.565702,0.05424201
+1688224277765,VR-difficult,5,Yellow Cylinder,Different,2.731432,2.207937,0.2461951
+1688224277765,VR-difficult,5,Red Cylinder,Different,1.54216,1.950848,-0.4822134
+1688224277765,VR-difficult,5,Yellow Cube,Different,1.855365,1.097668,-0.9862738
+1688224277765,VR-difficult,5,Purple Pyramids,Different,2.217013,0.5738451,0.9099917
+1688224277765,VR-difficult,5,Purple Cube,Different,1.510712,0.4610389,-0.6838205
+1688224277765,VR-difficult,5,Red Cylinder,Different,2.419116,1.896167,0.5200738
+1688224277765,VR-difficult,5,Red Cylinder,Different,2.35164,1.081536,1.588826
+1688224277765,VR-difficult,5,Purple Cylinder,Different,1.859234,1.284635,0.9830826
+1688224277765,VR-difficult,5,Purple Pyramids,Different,0.8043141,1.822502,-0.471674
+1688224277765,VR-difficult,5,Purple Pyramids,Different,2.668043,0.9196358,0.3785685
+1688224277765,VR-difficult,5,Yellow Pyramids,Different,2.633986,2.218966,-0.9432094
+1688224277765,VR-difficult,5,Yellow Pyramids,Different,2.607501,1.292354,-1.20921
+1688226727979,AR-difficult,1,Yellow Sphere,Target,0.9512969,1.107665,-0.1400388
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,2.604799,1.702387,-0.7028469
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,2.475714,1.338494,0.297663
+1688226727979,AR-difficult,1,Yellow Cube,Same Color,1.957769,1.353409,1.484324
+1688226727979,AR-difficult,1,Yellow Cylinder,Same Color,1.493177,1.574804,1.014274
+1688226727979,AR-difficult,1,Yellow Cylinder,Same Color,0.5018739,1.484034,-0.4814671
+1688226727979,AR-difficult,1,Yellow Cylinder,Same Color,0.4707462,0.9630181,-0.4379473
+1688226727979,AR-difficult,1,Yellow Cube,Same Color,2.179376,1.167741,-0.9085927
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,2.116824,1.224714,1.024845
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,1.45003,0.62384,0.2744938
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,1.767378,1.910935,-0.9372947
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,1.987402,1.260332,-0.0278725
+1688226727979,AR-difficult,1,Yellow Pyramids,Same Color,2.299086,0.6706426,-0.6847147
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.184393,0.3411396,0.6756301
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,1.644648,2.034849,0.5563064
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,0.9840161,0.6844814,0.8129665
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.298774,2.000347,-0.4006526
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.206052,1.985812,0.3856528
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.534936,0.8348541,-1.139308
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.677016,0.975162,1.504211
+1688226727979,AR-difficult,1,Red Sphere,Same Shape,1.112519,1.654867,0.1110542
+1688226727979,AR-difficult,1,Purple Sphere,Same Shape,2.455862,0.1699477,1.119553
+1688226727979,AR-difficult,1,Red Sphere,Same Shape,2.758469,2.072872,0.8690385
+1688226727979,AR-difficult,1,Red Sphere,Same Shape,1.911987,2.0742,-0.0899933
+1688226727979,AR-difficult,1,Blue Sphere,Same Shape,0.6259987,1.303355,0.4129261
+1688226727979,AR-difficult,1,Purple Cube,Different,1.73302,0.6092573,1.114396
+1688226727979,AR-difficult,1,Purple Cube,Different,2.063036,0.3065601,1.420335
+1688226727979,AR-difficult,1,Purple Pyramids,Different,1.192443,1.186465,-0.6263381
+1688226727979,AR-difficult,1,Red Pyramids,Different,1.44539,1.828193,-0.3654273
+1688226727979,AR-difficult,1,Red Pyramids,Different,1.791648,0.6718894,-0.2438603
+1688226727979,AR-difficult,1,Purple Pyramids,Different,2.619419,1.515375,0.7625606
+1688226727979,AR-difficult,1,Purple Cube,Different,2.762001,0.1641942,-0.9534438
+1688226727979,AR-difficult,1,Red Cube,Different,1.483783,1.035304,0.6442241
+1688226727979,AR-difficult,1,Red Cube,Different,2.703218,1.588633,-1.379112
+1688226727979,AR-difficult,1,Purple Pyramids,Different,2.266052,2.041105,-1.002829
+1688226727979,AR-difficult,1,Red Cube,Different,1.666033,2.039775,1.167997
+1688226727979,AR-difficult,1,Purple Pyramids,Different,2.670786,2.157933,1.6805
+1688227267987,AV-easy,0,Purple Cylinder,Target,1.575362,0.8805789,1.313216
+1688227267987,AV-easy,0,Purple Sphere,Same Color,2.41526,1.481621,0.4685775
+1688227267987,AV-easy,0,Purple Cube,Same Color,2.608299,0.4471287,1.707148
+1688227267987,AV-easy,0,Purple Pyramids,Same Color,1.912361,0.4950308,0.9437866
+1688227267987,AV-easy,0,Purple Pyramids,Same Color,1.225302,1.895548,0.02503651
+1688227267987,AV-easy,0,Purple Pyramids,Same Color,1.550959,1.957311,0.8838712
+1688227267987,AV-easy,0,Purple Pyramids,Same Color,0.9057668,1.357136,-0.5494384
+1688227267987,AV-easy,0,Blue Cylinder,Same Shape,1.029066,0.7381909,1.052836
+1688227267987,AV-easy,0,Yellow Cylinder,Same Shape,1.306701,0.6650167,-0.5704409
+1688227267987,AV-easy,0,Yellow Cylinder,Same Shape,2.217225,0.7622496,0.09863853
+1688227267987,AV-easy,0,Red Cylinder,Same Shape,2.671898,2.184863,-0.4809519
+1688227267987,AV-easy,0,Yellow Cylinder,Same Shape,2.76339,1.230644,1.492065
+1688227267987,AV-easy,0,Blue Cylinder,Same Shape,1.041206,1.740247,0.6629901
+1688227267987,AV-easy,0,Red Sphere,Different,2.189571,1.874603,-0.2643136
+1688227267987,AV-easy,0,Yellow Sphere,Different,2.392756,0.7348844,-0.4548277
+1688227267987,AV-easy,0,Blue Pyramids,Different,0.4242419,1.504803,0.462458
+1688227267987,AV-easy,0,Yellow Cube,Different,1.424052,1.408356,0.8572131
+1688227267987,AV-easy,0,Yellow Sphere,Different,2.09739,2.120669,-0.988941
+1688227267987,AV-easy,0,Yellow Cube,Different,1.597391,0.4679221,-0.1100146
+1688227287068,AV-easy,1,Blue Sphere,Target,2.554539,1.602874,0.2724908
+1688227287068,AV-easy,1,Blue Cylinder,Same Color,0.9892961,1.701032,-0.2729029
+1688227287068,AV-easy,1,Blue Cylinder,Same Color,1.318916,1.331095,0.247516
+1688227287068,AV-easy,1,Blue Pyramids,Same Color,2.243613,0.4691726,0.08554637
+1688227287068,AV-easy,1,Blue Cube,Same Color,0.8454929,1.78438,0.6423012
+1688227287068,AV-easy,1,Blue Pyramids,Same Color,2.410143,1.634635,-0.8754946
+1688227287068,AV-easy,1,Blue Cylinder,Same Color,1.202387,0.5468405,0.7759681
+1688227287068,AV-easy,1,Red Sphere,Same Shape,2.162922,1.919729,1.319348
+1688227287068,AV-easy,1,Red Sphere,Same Shape,1.320328,1.239943,-0.3218526
+1688227287068,AV-easy,1,Yellow Sphere,Same Shape,2.170943,1.704484,-0.3164064
+1688227287068,AV-easy,1,Yellow Sphere,Same Shape,0.7491297,1.066247,0.7783192
+1688227287068,AV-easy,1,Purple Sphere,Same Shape,2.055058,0.7336954,-0.8566486
+1688227287068,AV-easy,1,Purple Sphere,Same Shape,2.365718,0.5645842,1.711051
+1688227287068,AV-easy,1,Purple Pyramids,Different,2.060341,2.035361,-1.025839
+1688227287068,AV-easy,1,Yellow Cylinder,Different,1.062866,0.6876776,-0.5486571
+1688227287068,AV-easy,1,Purple Pyramids,Different,2.734601,0.33638,1.083929
+1688227287068,AV-easy,1,Purple Cylinder,Different,1.82035,0.9362535,0.8615237
+1688227287068,AV-easy,1,Red Cylinder,Different,2.179701,1.145263,1.57054
+1688227287068,AV-easy,1,Purple Cube,Different,1.372006,1.751672,0.5624328
+1688227294829,AV-easy,2,Blue Sphere,Target,0.6308659,0.985459,0.9183418
+1688227294829,AV-easy,2,Blue Pyramids,Same Color,1.502269,0.5812225,1.088323
+1688227294829,AV-easy,2,Blue Pyramids,Same Color,2.123642,1.339424,-0.2682241
+1688227294829,AV-easy,2,Blue Cube,Same Color,2.445119,1.522014,-0.6474537
+1688227294829,AV-easy,2,Blue Pyramids,Same Color,2.618784,1.728414,1.167473
+1688227294829,AV-easy,2,Blue Pyramids,Same Color,2.655986,1.2989,0.8031073
+1688227294829,AV-easy,2,Blue Cylinder,Same Color,2.030794,1.392081,1.466677
+1688227294829,AV-easy,2,Purple Sphere,Same Shape,1.916734,0.7763965,0.0209505
+1688227294829,AV-easy,2,Yellow Sphere,Same Shape,0.621711,1.798852,0.9480758
+1688227294829,AV-easy,2,Red Sphere,Same Shape,2.761204,2.232844,-0.481925
+1688227294829,AV-easy,2,Yellow Sphere,Same Shape,0.4353284,1.535032,-0.1558242
+1688227294829,AV-easy,2,Red Sphere,Same Shape,1.133191,0.708934,-0.7694401
+1688227294829,AV-easy,2,Red Sphere,Same Shape,1.715797,1.560846,0.721371
+1688227294829,AV-easy,2,Red Cube,Different,2.589449,2.014234,0.2487096
+1688227294829,AV-easy,2,Yellow Cube,Different,1.380102,0.8133479,0.2632599
+1688227294829,AV-easy,2,Red Cube,Different,1.358945,1.962854,1.183354
+1688227294829,AV-easy,2,Purple Cube,Different,2.751921,0.4949773,0.3001609
+1688227294829,AV-easy,2,Purple Cylinder,Different,0.9450216,1.380962,0.7196739
+1688227294829,AV-easy,2,Yellow Cylinder,Different,2.385276,0.6832685,1.36494
+1688227302585,AV-easy,3,Blue Sphere,Target,2.610741,0.9917566,1.795453
+1688227302585,AV-easy,3,Blue Cylinder,Same Color,0.4561206,1.388911,0.1667442
+1688227302585,AV-easy,3,Blue Cylinder,Same Color,2.489637,0.1612632,-0.8324681
+1688227302585,AV-easy,3,Blue Pyramids,Same Color,2.50681,1.56842,0.4954847
+1688227302585,AV-easy,3,Blue Cube,Same Color,1.048616,1.783707,0.8593811
+1688227302585,AV-easy,3,Blue Cube,Same Color,2.622931,1.182065,-0.5828294
+1688227302585,AV-easy,3,Blue Cylinder,Same Color,2.478352,1.692582,1.690802
+1688227302585,AV-easy,3,Yellow Sphere,Same Shape,2.614742,0.1724665,1.775565
+1688227302585,AV-easy,3,Red Sphere,Same Shape,1.869843,1.681533,0.3959136
+1688227302585,AV-easy,3,Purple Sphere,Same Shape,2.560624,2.127909,-1.357223
+1688227302585,AV-easy,3,Purple Sphere,Same Shape,2.290633,0.4417759,-1.259294
+1688227302585,AV-easy,3,Red Sphere,Same Shape,2.257727,0.7038249,0.312674
+1688227302585,AV-easy,3,Purple Sphere,Same Shape,0.8351245,1.257254,-0.5037169
+1688227302585,AV-easy,3,Yellow Cylinder,Different,0.9333625,0.8760073,0.9772227
+1688227302585,AV-easy,3,Red Cube,Different,1.682827,0.8640927,0.8804272
+1688227302585,AV-easy,3,Red Cube,Different,2.306696,1.486863,0.9905514
+1688227302585,AV-easy,3,Purple Pyramids,Different,1.543365,1.871017,-0.001337171
+1688227302585,AV-easy,3,Yellow Pyramids,Different,2.741545,1.224158,1.013659
+1688227302585,AV-easy,3,Yellow Cube,Different,0.7172005,0.8195172,0.3877305
+1688227310092,AV-easy,4,Blue Sphere,Target,2.66981,0.2642511,-0.9849773
+1688227310092,AV-easy,4,Blue Pyramids,Same Color,1.359466,1.515325,-0.804217
+1688227310092,AV-easy,4,Blue Pyramids,Same Color,2.232619,0.8735046,1.329739
+1688227310092,AV-easy,4,Blue Cube,Same Color,2.58042,1.258382,0.04676712
+1688227310092,AV-easy,4,Blue Cube,Same Color,0.8227795,1.061203,-0.1976055
+1688227310092,AV-easy,4,Blue Cylinder,Same Color,2.375829,1.987512,-0.6871195
+1688227310092,AV-easy,4,Blue Pyramids,Same Color,2.608147,2.201628,-1.335005
+1688227310092,AV-easy,4,Yellow Sphere,Same Shape,2.749882,0.1797363,1.27762
+1688227310092,AV-easy,4,Yellow Sphere,Same Shape,1.814281,1.335257,-1.055691
+1688227310092,AV-easy,4,Red Sphere,Same Shape,2.016911,1.877971,0.8898326
+1688227310092,AV-easy,4,Purple Sphere,Same Shape,1.164665,1.003918,-0.5806322
+1688227310092,AV-easy,4,Red Sphere,Same Shape,1.833013,1.451494,0.0185554
+1688227310092,AV-easy,4,Red Sphere,Same Shape,2.132559,0.9643469,0.5346502
+1688227310092,AV-easy,4,Yellow Pyramids,Different,1.125433,1.449031,-0.08358902
+1688227310092,AV-easy,4,Purple Cylinder,Different,2.297457,0.5967002,-0.2169049
+1688227310092,AV-easy,4,Purple Cube,Different,2.493665,1.373541,1.658281
+1688227310092,AV-easy,4,Purple Cube,Different,1.461981,1.120048,0.7973773
+1688227310092,AV-easy,4,Red Cylinder,Different,1.521524,0.5999191,-0.3216621
+1688227310092,AV-easy,4,Yellow Cube,Different,2.71489,0.7930669,1.568045
+1688227317350,AV-easy,5,Yellow Sphere,Target,0.8478471,1.51743,0.03963149
+1688227317350,AV-easy,5,Yellow Cube,Same Color,1.570793,0.8182881,-0.3047822
+1688227317350,AV-easy,5,Yellow Cube,Same Color,2.476426,0.4605836,0.4071081
+1688227317350,AV-easy,5,Yellow Cylinder,Same Color,2.16339,1.341438,0.5887325
+1688227317350,AV-easy,5,Yellow Cylinder,Same Color,1.802528,1.669958,-0.2024187
+1688227317350,AV-easy,5,Yellow Cylinder,Same Color,2.299202,1.866412,-0.1460469
+1688227317350,AV-easy,5,Yellow Cube,Same Color,2.641777,1.399637,-1.102767
+1688227317350,AV-easy,5,Purple Sphere,Same Shape,2.077111,1.746326,1.20211
+1688227317350,AV-easy,5,Red Sphere,Same Shape,0.8665695,1.502452,0.6979697
+1688227317350,AV-easy,5,Red Sphere,Same Shape,2.598846,1.091084,1.767596
+1688227317350,AV-easy,5,Blue Sphere,Same Shape,1.565318,1.759831,0.7142162
+1688227317350,AV-easy,5,Red Sphere,Same Shape,2.138903,1.844135,0.6651008
+1688227317350,AV-easy,5,Purple Sphere,Same Shape,2.109002,0.7484449,0.8480173
+1688227317350,AV-easy,5,Blue Cube,Different,1.352779,0.8575851,0.7734418
+1688227317350,AV-easy,5,Blue Cylinder,Different,0.5310237,1.027469,0.8744839
+1688227317350,AV-easy,5,Red Cylinder,Different,2.598431,1.67938,0.3512328
+1688227317350,AV-easy,5,Purple Pyramids,Different,2.33298,2.085902,-1.184621
+1688227317350,AV-easy,5,Blue Pyramids,Different,1.940153,0.7426729,1.528692
+1688227317350,AV-easy,5,Purple Pyramids,Different,2.562647,0.273442,-1.209837
+1689327664806,VR-easy,1,TargetPanelLeft,Panel,1.82,1.2,-1.55
+1689327664806,VR-easy,1,Purple Pyramids,Target,-0.7132406,0.6729885,-2.20757
+1689327664806,VR-easy,1,Purple Sphere,Same Color,0.5589148,1.115313,-1.813913
+1689327664806,VR-easy,1,Purple Cylinder,Same Color,0.9953609,1.804998,-2.62692
+1689327664806,VR-easy,1,Purple Cylinder,Same Color,1.249543,0.6772522,-2.626844
+1689327664806,VR-easy,1,Purple Cube,Same Color,0.4726589,0.6835429,-1.521142
+1689327664806,VR-easy,1,Purple Sphere,Same Color,-0.1763487,1.674455,-1.815113
+1689327664806,VR-easy,1,Purple Cube,Same Color,1.203167,0.8753536,-1.971588
+1689327664806,VR-easy,1,Red Pyramids,Same Shape,-0.3195874,1.708618,-2.461996
+1689327664806,VR-easy,1,Red Pyramids,Same Shape,-0.8335477,1.676305,-2.285397
+1689327664806,VR-easy,1,Blue Pyramids,Same Shape,-0.01793033,0.8647378,-2.041456
+1689327664806,VR-easy,1,Yellow Pyramids,Same Shape,0.01306641,1.47604,-0.4413898
+1689327664806,VR-easy,1,Blue Pyramids,Same Shape,0.9349099,1.802333,-1.976207
+1689327664806,VR-easy,1,Yellow Pyramids,Same Shape,0.2513067,1.641184,-0.8559864
+1689327664806,VR-easy,1,Blue Cylinder,Different,0.03973669,2.242796,-2.659805
+1689327664806,VR-easy,1,Yellow Cylinder,Different,-1.576225,1.206905,-2.648527
+1689327664806,VR-easy,1,Blue Cube,Different,1.311495,0.3253952,-2.061777
+1689327664806,VR-easy,1,Red Cube,Different,-0.2247703,1.16693,-1.076508
+1689327664806,VR-easy,1,Blue Sphere,Different,-0.5964966,1.208956,-1.490009
+1689327672310,VR-easy,2,TargetPanelLeft,Panel,1.82,1.2,-1.55
+1689327672310,VR-easy,2,Yellow Cylinder,Target,-1.055134,1.144549,-1.989255
+1689327672310,VR-easy,2,Yellow Sphere,Same Color,-1.311971,0.7104642,-1.785818
+1689327672310,VR-easy,2,Yellow Sphere,Same Color,0.4342559,0.8690532,-1.636952
+1689327672310,VR-easy,2,Yellow Pyramids,Same Color,0.6604514,1.301536,-2.668555
+1689327672310,VR-easy,2,Yellow Cube,Same Color,-0.07761341,1.465227,-0.9644634
+1689327672310,VR-easy,2,Yellow Pyramids,Same Color,-0.394871,0.9161771,-2.575022
+1689327672310,VR-easy,2,Yellow Pyramids,Same Color,0.02083099,0.427787,-2.535919
+1689327672310,VR-easy,2,Blue Cylinder,Same Shape,-0.7076006,0.5726952,-1.889487
+1689327672310,VR-easy,2,Blue Cylinder,Same Shape,0.6302277,1.461617,-1.697658
+1689327672310,VR-easy,2,Purple Cylinder,Same Shape,-0.8660543,0.6181591,-2.729333
+1689327672310,VR-easy,2,Red Cylinder,Same Shape,0.08885473,2.070308,-2.625435
+1689327672310,VR-easy,2,Blue Cylinder,Same Shape,1.404868,1.526006,-2.57896
+1689327672310,VR-easy,2,Blue Cylinder,Same Shape,0.3279266,1.164116,-1.214927
+1689327672310,VR-easy,2,Red Cube,Different,-1.129338,1.766792,-1.863975
+1689327672310,VR-easy,2,Blue Sphere,Different,-1.525837,0.2037895,-2.366875
+1689327672310,VR-easy,2,Red Sphere,Different,-0.2313399,0.8247774,-0.6749713
+1689327672310,VR-easy,2,Red Sphere,Different,0.369108,0.7042392,-0.9405963
+1689327672310,VR-easy,2,Purple Sphere,Different,1.002793,0.9080837,-2.423066
+1689327679566,VR-easy,3,TargetPanelLeft,Panel,1.82,1.2,-1.55
+1689327679566,VR-easy,3,Blue Cylinder,Target,1.297127,0.5984862,-2.438275
+1689327679566,VR-easy,3,Blue Sphere,Same Color,-0.4758731,0.3568036,-2.620955
+1689327679566,VR-easy,3,Blue Pyramids,Same Color,-1.474522,0.5065904,-2.530264
+1689327679566,VR-easy,3,Blue Sphere,Same Color,-0.3252238,0.5605788,-2.003538
+1689327679566,VR-easy,3,Blue Pyramids,Same Color,-0.1762934,0.7406214,-1.014931
+1689327679566,VR-easy,3,Blue Pyramids,Same Color,-0.9779737,1.810997,-2.323518
+1689327679566,VR-easy,3,Blue Sphere,Same Color,1.077449,1.229654,-1.446293
+1689327679566,VR-easy,3,Red Cylinder,Same Shape,0.8374354,1.696399,-1.386611
+1689327679566,VR-easy,3,Red Cylinder,Same Shape,0.1188142,1.683768,-2.701355
+1689327679566,VR-easy,3,Yellow Cylinder,Same Shape,-0.07818705,1.330923,-1.939722
+1689327679566,VR-easy,3,Yellow Cylinder,Same Shape,0.2258829,0.849202,-1.534384
+1689327679566,VR-easy,3,Red Cylinder,Same Shape,0.5509425,1.424381,-1.772582
+1689327679566,VR-easy,3,Purple Cylinder,Same Shape,-0.1164166,0.8130479,-2.469441
+1689327679566,VR-easy,3,Purple Pyramids,Different,1.156194,2.174534,-2.406304
+1689327679566,VR-easy,3,Red Pyramids,Different,-1.159831,1.71261,-1.844755
+1689327679566,VR-easy,3,Red Cube,Different,0.6710437,1.644443,-2.60144
+1689327679566,VR-easy,3,Purple Pyramids,Different,-0.636979,1.82243,-1.244323
+1689327679566,VR-easy,3,Red Pyramids,Different,-0.4488693,2.015445,-2.410133
+1689327686824,VR-easy,4,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327686824,VR-easy,4,Blue Pyramids,Target,0.07323825,0.5898923,-2.460873
+1689327686824,VR-easy,4,Blue Cylinder,Same Color,0.2589871,1.466339,-1.82623
+1689327686824,VR-easy,4,Blue Cylinder,Same Color,1.414037,0.5752167,-2.741191
+1689327686824,VR-easy,4,Blue Cube,Same Color,-1.197617,1.346676,-1.775569
+1689327686824,VR-easy,4,Blue Cube,Same Color,-1.373102,0.5875529,-2.374861
+1689327686824,VR-easy,4,Blue Cylinder,Same Color,-0.9932835,1.96966,-2.058941
+1689327686824,VR-easy,4,Blue Cylinder,Same Color,-0.6369071,1.337319,-1.313058
+1689327686824,VR-easy,4,Purple Pyramids,Same Shape,-0.8132622,0.870399,-1.925498
+1689327686824,VR-easy,4,Red Pyramids,Same Shape,0.0009111762,1.247236,-2.584259
+1689327686824,VR-easy,4,Purple Pyramids,Same Shape,-0.8400369,0.6795796,-0.8590601
+1689327686824,VR-easy,4,Purple Pyramids,Same Shape,-0.6105648,1.743334,-0.4851498
+1689327686824,VR-easy,4,Yellow Pyramids,Same Shape,0.6299295,1.821696,-1.072416
+1689327686824,VR-easy,4,Red Pyramids,Same Shape,0.5282478,0.8693662,-1.622027
+1689327686824,VR-easy,4,Purple Cylinder,Different,-1.061301,1.628433,-2.573447
+1689327686824,VR-easy,4,Yellow Sphere,Different,0.08678389,1.961681,-2.574838
+1689327686824,VR-easy,4,Red Cylinder,Different,1.060865,2.043876,-1.912032
+1689327686824,VR-easy,4,Red Sphere,Different,0.6417687,0.2356642,-2.404504
+1689327686824,VR-easy,4,Red Cylinder,Different,0.04629254,1.171645,-0.4203196
+1689327694577,VR-easy,5,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327694577,VR-easy,5,Blue Sphere,Target,1.074773,2.058569,-2.519494
+1689327694577,VR-easy,5,Blue Cylinder,Same Color,-0.5505933,1.600343,-1.984035
+1689327694577,VR-easy,5,Blue Pyramids,Same Color,-0.6513974,2.169371,-2.765686
+1689327694577,VR-easy,5,Blue Cylinder,Same Color,0.3200321,0.8112421,-2.244141
+1689327694577,VR-easy,5,Blue Cylinder,Same Color,1.174926,1.704891,-1.934476
+1689327694577,VR-easy,5,Blue Cylinder,Same Color,1.101822,0.915328,-2.239138
+1689327694577,VR-easy,5,Blue Cube,Same Color,-1.21555,1.27295,-2.294249
+1689327694577,VR-easy,5,Purple Sphere,Same Shape,-0.8839467,0.892967,-1.923562
+1689327694577,VR-easy,5,Purple Sphere,Same Shape,-1.411427,1.915619,-1.961437
+1689327694577,VR-easy,5,Yellow Sphere,Same Shape,0.5314332,0.416921,-2.627111
+1689327694577,VR-easy,5,Red Sphere,Same Shape,0.6909362,1.007458,-0.5456827
+1689327694577,VR-easy,5,Red Sphere,Same Shape,-0.3708773,1.836207,-0.9914831
+1689327694577,VR-easy,5,Purple Sphere,Same Shape,-0.07804078,1.176862,-0.8329023
+1689327694577,VR-easy,5,Red Cube,Different,0.3081632,1.423474,-1.181692
+1689327694577,VR-easy,5,Purple Cube,Different,0.3538578,2.155662,-2.624444
+1689327694577,VR-easy,5,Red Cylinder,Different,-0.1600294,1.105476,-1.972309
+1689327694577,VR-easy,5,Red Cylinder,Different,0.5421968,0.4386721,-1.567167
+1689327694577,VR-easy,5,Purple Cylinder,Different,0.4481444,1.660147,-1.997366
+1689327702086,VR-easy,6,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327702086,VR-easy,6,Purple Pyramids,Target,0.4561308,0.8710675,-0.7155584
+1689327702086,VR-easy,6,Purple Cylinder,Same Color,-1.192499,1.724031,-2.125805
+1689327702086,VR-easy,6,Purple Cylinder,Same Color,-0.2804096,1.521617,-0.4492186
+1689327702086,VR-easy,6,Purple Cube,Same Color,-0.5731807,1.025254,-2.10925
+1689327702086,VR-easy,6,Purple Cylinder,Same Color,-0.7328683,0.4391648,-2.185517
+1689327702086,VR-easy,6,Purple Cube,Same Color,-1.163089,0.4667329,-1.638624
+1689327702086,VR-easy,6,Purple Sphere,Same Color,0.1153019,1.466742,-0.7826726
+1689327702086,VR-easy,6,Yellow Pyramids,Same Shape,0.3360844,1.004781,-2.141264
+1689327702086,VR-easy,6,Blue Pyramids,Same Shape,0.08705729,0.5782007,-2.548047
+1689327702086,VR-easy,6,Red Pyramids,Same Shape,1.246766,1.866433,-1.970716
+1689327702086,VR-easy,6,Yellow Pyramids,Same Shape,-0.2782757,1.02906,-1.674077
+1689327702086,VR-easy,6,Yellow Pyramids,Same Shape,1.229557,0.5440831,-2.498125
+1689327702086,VR-easy,6,Yellow Pyramids,Same Shape,0.9733462,0.876301,-1.834782
+1689327702086,VR-easy,6,Blue Cube,Different,0.7290561,1.920608,-2.461855
+1689327702086,VR-easy,6,Red Cylinder,Different,0.8681794,0.7175669,-1.317501
+1689327702086,VR-easy,6,Yellow Cylinder,Different,-0.09314573,1.846728,-2.234992
+1689327702086,VR-easy,6,Red Cylinder,Different,-1.003906,1.391871,-2.68361
+1689327702086,VR-easy,6,Red Cylinder,Different,-0.6254527,2.117813,-2.333436
+1689327709345,VR-easy,7,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327709345,VR-easy,7,Purple Sphere,Target,1.570234,1.882683,-2.705912
+1689327709345,VR-easy,7,Purple Cube,Same Color,-0.2113783,1.723003,-2.558967
+1689327709345,VR-easy,7,Purple Cube,Same Color,-1.483706,0.750344,-2.206043
+1689327709345,VR-easy,7,Purple Cylinder,Same Color,-1.201168,1.87124,-2.080973
+1689327709345,VR-easy,7,Purple Cube,Same Color,-0.01391947,1.569396,-1.691162
+1689327709345,VR-easy,7,Purple Pyramids,Same Color,-0.9924079,0.3789307,-1.769814
+1689327709345,VR-easy,7,Purple Cylinder,Same Color,0.6014037,2.221565,-2.607943
+1689327709345,VR-easy,7,Blue Sphere,Same Shape,0.4747862,1.712164,-1.504305
+1689327709345,VR-easy,7,Blue Sphere,Same Shape,-0.2463506,0.4220391,-2.040394
+1689327709345,VR-easy,7,Red Sphere,Same Shape,0.9079931,0.7661229,-2.10533
+1689327709345,VR-easy,7,Blue Sphere,Same Shape,-0.9315047,1.234167,-2.501797
+1689327709345,VR-easy,7,Blue Sphere,Same Shape,0.3083013,1.721356,-2.628984
+1689327709345,VR-easy,7,Yellow Sphere,Same Shape,-0.04482001,1.849157,-1.175802
+1689327709345,VR-easy,7,Red Pyramids,Different,-0.6181213,0.8295025,-1.429991
+1689327709345,VR-easy,7,Yellow Cube,Different,-0.2100384,0.9987938,-0.5973923
+1689327709345,VR-easy,7,Yellow Pyramids,Different,-1.67857,1.05154,-2.705142
+1689327709345,VR-easy,7,Yellow Cylinder,Different,0.1304986,1.320409,-0.8368606
+1689327709345,VR-easy,7,Yellow Cube,Different,-0.4901219,1.993268,-1.896853
+1689327716853,VR-easy,8,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327716853,VR-easy,8,Yellow Cube,Target,0.9676351,1.332353,-2.001766
+1689327716853,VR-easy,8,Yellow Pyramids,Same Color,0.4391821,1.414558,-0.9352705
+1689327716853,VR-easy,8,Yellow Sphere,Same Color,1.511007,1.525833,-2.713762
+1689327716853,VR-easy,8,Yellow Cylinder,Same Color,-0.1093452,1.492855,-0.4636676
+1689327716853,VR-easy,8,Yellow Cylinder,Same Color,0.2185454,0.9942964,-2.206578
+1689327716853,VR-easy,8,Yellow Pyramids,Same Color,0.2260186,1.987164,-2.155228
+1689327716853,VR-easy,8,Yellow Pyramids,Same Color,0.5359527,1.523452,-1.649301
+1689327716853,VR-easy,8,Red Cube,Same Shape,-0.2146448,1.305533,-1.905529
+1689327716853,VR-easy,8,Blue Cube,Same Shape,1.088732,0.6927103,-1.992172
+1689327716853,VR-easy,8,Blue Cube,Same Shape,0.2334313,1.005778,-0.4241996
+1689327716853,VR-easy,8,Blue Cube,Same Shape,-0.2845939,0.8992741,-1.558025
+1689327716853,VR-easy,8,Red Cube,Same Shape,-1.052753,0.5947219,-1.409924
+1689327716853,VR-easy,8,Blue Cube,Same Shape,1.255973,2.105331,-2.071491
+1689327716853,VR-easy,8,Blue Sphere,Different,-0.7461962,1.486223,-0.8626925
+1689327716853,VR-easy,8,Purple Pyramids,Different,-0.2098226,0.8811635,-2.558485
+1689327716853,VR-easy,8,Blue Sphere,Different,0.8370762,1.864215,-1.90573
+1689327716853,VR-easy,8,Purple Cylinder,Different,-0.9987594,1.335199,-2.420421
+1689327716853,VR-easy,8,Red Cylinder,Different,-1.0077,1.971784,-2.226924
+1689327724610,VR-easy,9,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327724610,VR-easy,9,Yellow Cube,Target,-0.3962076,0.4746793,-1.788876
+1689327724610,VR-easy,9,Yellow Sphere,Same Color,0.4437329,1.749861,-1.739756
+1689327724610,VR-easy,9,Yellow Sphere,Same Color,0.06499761,0.5331969,-2.605247
+1689327724610,VR-easy,9,Yellow Pyramids,Same Color,0.4417556,0.556335,-2.03827
+1689327724610,VR-easy,9,Yellow Sphere,Same Color,-1.463869,1.644993,-2.500558
+1689327724610,VR-easy,9,Yellow Pyramids,Same Color,0.1546454,1.468995,-1.031116
+1689327724610,VR-easy,9,Yellow Cylinder,Same Color,1.310781,0.5982219,-2.328164
+1689327724610,VR-easy,9,Red Cube,Same Shape,0.801425,0.1675071,-2.761441
+1689327724610,VR-easy,9,Blue Cube,Same Shape,0.8574738,1.14488,-2.469884
+1689327724610,VR-easy,9,Purple Cube,Same Shape,-1.045099,0.838703,-1.448476
+1689327724610,VR-easy,9,Purple Cube,Same Shape,-0.4727797,1.494655,-2.114067
+1689327724610,VR-easy,9,Blue Cube,Same Shape,-0.4724705,2.053319,-2.374481
+1689327724610,VR-easy,9,Blue Cube,Same Shape,0.6746134,0.719757,-1.040872
+1689327724610,VR-easy,9,Blue Pyramids,Different,-0.9971326,1.642008,-1.903173
+1689327724610,VR-easy,9,Red Cylinder,Different,0.6694404,1.692688,-2.255297
+1689327724610,VR-easy,9,Blue Sphere,Different,-0.3294,1.06097,-1.054649
+1689327724610,VR-easy,9,Red Pyramids,Different,-1.46818,0.3757465,-2.678981
+1689327724610,VR-easy,9,Red Cylinder,Different,-0.05468541,1.634677,-1.598071
+1689327732365,VR-easy,10,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1689327732365,VR-easy,10,Purple Cylinder,Target,-0.3070225,0.5782925,-1.370759
+1689327732365,VR-easy,10,Purple Cube,Same Color,-1.089607,1.585117,-2.725004
+1689327732365,VR-easy,10,Purple Cube,Same Color,-0.681703,1.278128,-0.9153161
+1689327732365,VR-easy,10,Purple Sphere,Same Color,-0.1944394,0.6107332,-2.443014
+1689327732365,VR-easy,10,Purple Cube,Same Color,-0.5687149,0.4203297,-1.907503
+1689327732365,VR-easy,10,Purple Sphere,Same Color,-1.047959,1.852435,-1.779154
+1689327732365,VR-easy,10,Purple Sphere,Same Color,-0.15306,1.110171,-2.413096
+1689327732365,VR-easy,10,Blue Cylinder,Same Shape,1.452912,1.225235,-2.714325
+1689327732365,VR-easy,10,Red Cylinder,Same Shape,1.233001,0.7887025,-2.097947
+1689327732365,VR-easy,10,Red Cylinder,Same Shape,0.6736479,1.735684,-2.056834
+1689327732365,VR-easy,10,Yellow Cylinder,Same Shape,-0.5870318,1.998571,-2.303665
+1689327732365,VR-easy,10,Blue Cylinder,Same Shape,-0.2788941,1.712936,-2.628453
+1689327732365,VR-easy,10,Yellow Cylinder,Same Shape,1.029109,0.5090806,-1.687927
+1689327732365,VR-easy,10,Red Cube,Different,1.435339,0.5875866,-2.706726
+1689327732365,VR-easy,10,Blue Cube,Different,-1.345405,0.9283433,-1.854477
+1689327732365,VR-easy,10,Yellow Pyramids,Different,0.4781836,1.310542,-1.447284
+1689327732365,VR-easy,10,Red Sphere,Different,-0.6160013,1.756767,-0.7713802
+1689327732365,VR-easy,10,Yellow Cube,Different,1.038968,1.394531,-2.137532
+1691950728839,VR-easy,1,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1691950728839,VR-easy,1,Purple Sphere,Target,0.3372451,1.506732,-0.6689479
+1691950728839,VR-easy,1,Purple Pyramids,Same Color,0.7260455,0.8378595,-0.7325428
+1691950728839,VR-easy,1,Purple Pyramids,Same Color,0.3173949,1.248038,-1.512583
+1691950728839,VR-easy,1,Purple Cube,Same Color,0.1960838,0.5933864,-1.084263
+1691950728839,VR-easy,1,Purple Pyramids,Same Color,-0.2605048,1.859693,-1.305928
+1691950728839,VR-easy,1,Purple Cylinder,Same Color,-0.5425248,0.5563262,-1.177587
+1691950728839,VR-easy,1,Purple Cylinder,Same Color,0.9462677,2.050817,-2.271627
+1691950728839,VR-easy,1,Blue Sphere,Same Shape,0.4302447,1.847672,-1.628366
+1691950728839,VR-easy,1,Blue Sphere,Same Shape,-0.2545336,1.949794,-2.238211
+1691950728839,VR-easy,1,Yellow Sphere,Same Shape,0.5945863,0.844578,-1.735638
+1691950728839,VR-easy,1,Blue Sphere,Same Shape,0.3808118,2.12544,-2.079486
+1691950728839,VR-easy,1,Blue Sphere,Same Shape,0.061961,0.8827185,-2.065643
+1691950728839,VR-easy,1,Yellow Sphere,Same Shape,-1.002674,0.3241158,-2.051101
+1691950728839,VR-easy,1,Yellow Cylinder,Different,-0.1522884,1.357898,-2.226379
+1691950728839,VR-easy,1,Red Pyramids,Different,-1.374239,2.099823,-2.36885
+1691950728839,VR-easy,1,Blue Pyramids,Different,-1.403577,0.7643402,-2.618391
+1691950728839,VR-easy,1,Red Cube,Different,0.2865447,1.611668,-2.365988
+1691950728839,VR-easy,1,Red Cylinder,Different,-1.489101,1.474631,-2.494578
+1691950819648,VR-easy,2,TargetPanelRight,Panel,-1.820001,1.2,-1.55
+1691950819648,VR-easy,2,Red Cube,Target,-0.7619616,1.395905,-1.29678
+1691950819648,VR-easy,2,Red Pyramids,Same Color,0.08393258,1.652433,-1.99965
+1691950819648,VR-easy,2,Red Pyramids,Same Color,-0.6740125,1.205205,-0.4219869
+1691950819648,VR-easy,2,Red Cylinder,Same Color,-1.314738,2.169225,-2.639975
+1691950819648,VR-easy,2,Red Sphere,Same Color,0.1859682,1.046128,-1.666168
+1691950819648,VR-easy,2,Red Pyramids,Same Color,-0.6288481,1.277317,-2.0051
+1691950819648,VR-easy,2,Red Cylinder,Same Color,-0.91087,0.573737,-1.641235
+1691950819648,VR-easy,2,Purple Cube,Same Shape,-0.4053479,0.5148018,-1.926215
+1691950819648,VR-easy,2,Yellow Cube,Same Shape,-0.03646678,1.306989,-2.397336
+1691950819648,VR-easy,2,Purple Cube,Same Shape,1.133482,1.070712,-2.182642
+1691950819648,VR-easy,2,Blue Cube,Same Shape,-0.702539,1.500428,-2.717884
+1691950819648,VR-easy,2,Yellow Cube,Same Shape,0.3576498,0.4481356,-2.474016
+1691950819648,VR-easy,2,Yellow Cube,Same Shape,0.5498911,1.316523,-1.287827
+1691950819648,VR-easy,2,Blue Pyramids,Different,-0.6744118,1.045626,-2.461293
+1691950819648,VR-easy,2,Purple Cylinder,Different,-0.5435438,1.834103,-0.931003
+1691950819648,VR-easy,2,Yellow Sphere,Different,1.177046,0.1761294,-2.542985
+1691950819648,VR-easy,2,Purple Cylinder,Different,1.242749,2.035211,-2.135679
+1691950819648,VR-easy,2,Purple Pyramids,Different,1.045518,1.975977,-1.582162
+1691950928242,VR-easy,3,TargetPanelLeft,Panel,1.82,1.2,-1.55
+1691950928242,VR-easy,3,Purple Cylinder,Target,1.222609,0.8260301,-2.388286
+1691950928242,VR-easy,3,Purple Sphere,Same Color,-0.8990601,1.997829,-2.572375
+1691950928242,VR-easy,3,Purple Pyramids,Same Color,-0.00208354,1.112209,-0.5991095
+1691950928242,VR-easy,3,Purple Cube,Same Color,-0.3168316,1.438186,-1.847675
+1691950928242,VR-easy,3,Purple Sphere,Same Color,0.1048275,1.375716,-2.389403
+1691950928242,VR-easy,3,Purple Sphere,Same Color,-1.459795,2.174362,-2.246596
+1691950928242,VR-easy,3,Purple Cube,Same Color,0.4682807,0.4022093,-2.466624
+1691950928242,VR-easy,3,Red Cylinder,Same Shape,0.9925262,1.450766,-2.299766
+1691950928242,VR-easy,3,Yellow Cylinder,Same Shape,-0.6666274,1.005695,-0.7425826
+1691950928242,VR-easy,3,Red Cylinder,Same Shape,1.348863,1.316118,-2.638024
+1691950928242,VR-easy,3,Red Cylinder,Same Shape,-0.7488772,1.959654,-1.341233
+1691950928242,VR-easy,3,Red Cylinder,Same Shape,-0.4832428,0.3806411,-2.520259
+1691950928242,VR-easy,3,Red Cylinder,Same Shape,0.8625309,1.234887,-0.929464
+1691950928242,VR-easy,3,Yellow Pyramids,Different,0.7566227,0.6853957,-1.440007
+1691950928242,VR-easy,3,Blue Cube,Different,-0.073919,0.749435,-1.303905
+1691950928242,VR-easy,3,Yellow Pyramids,Different,-1.538492,1.461715,-2.467672
+1691950928242,VR-easy,3,Blue Cube,Different,0.9435285,0.44224,-2.678841
+1691950928242,VR-easy,3,Blue Sphere,Different,-0.1779011,1.538868,-1.095444

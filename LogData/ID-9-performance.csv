@@ -1,0 +1,17 @@
+Time,Block,TaskCount,Target,ClickedItem,IsTarget
+1688204515952,training,0,Blue Cube,Missed,False
+1688204522713,training,1,Yellow Pyramids,Missed,False
+1688204529224,training,2,Purple Sphere,Missed,False
+1688204535732,training,3,Blue Cylinder,Missed,False
+1688204670812,training,4,Red Cylinder,Missed,False
+1688204677574,training,5,Purple Sphere,Missed,False
+1688204745892,AV-difficult,1,Yellow Sphere,Missed,False
+1688204753158,AV-difficult,2,Yellow Sphere,Missed,False
+1688204760418,AV-difficult,3,Blue Cube,Missed,False
+1688204767928,AV-difficult,4,Blue Pyramids,Missed,False
+1688204775191,AV-difficult,5,Red Sphere,Missed,False
+1688204842603,AV-difficult,1,Yellow Sphere,Missed,False
+1688204849862,AV-difficult,2,Yellow Sphere,Missed,False
+1688204857622,AV-difficult,3,Yellow Pyramids,Missed,False
+1688204865134,AV-difficult,4,Purple Cylinder,Missed,False
+1688204872893,AV-difficult,5,Blue Cube,Missed,False

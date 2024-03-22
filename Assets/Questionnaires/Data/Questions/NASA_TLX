@@ -1,0 +1,111 @@
+{
+   "qTitle":"NASA TLX Workload Assessment",
+   "qInstructions":"Instructions: Please rate all 9 measures by clicking a point on the scale that best represents your experience with the task you just completed.",
+   "qId":"NASATLX",
+   "questions":[
+      {
+         "pId":"page1",
+         "qType":"linearGrid",
+         "qInstructions":"Please rate all measures by clicking a point on the scale.",
+         "qData":[
+            {
+               "qId":"g1",
+               "qText":"Mental Demand:				How mentally demanding was the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"g2",
+               "qText":"Physical Demand:				How physically demanding was the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"g3",
+               "qText":"Temporal Demand:		How hurried or rushed was the pace of the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            }
+         ]
+      },
+      {
+         "pId":"page2",
+         "qType":"linearGrid",
+         "qInstructions":"Please rate all measures by clicking a point on the scale.",
+         "qData":[
+            {
+               "qId":"g4",
+               "qText":"Performance:  How succesfull were you in accomplishing what you were asked to do?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Failure",
+               "qMax":"20",
+               "qMaxLabel":"Perfect"
+            },
+            {
+               "qId":"g5",
+               "qText":"Effort:  How hard did you have to work to accomplish your level of performance?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"g6",
+               "qText":"Frustration:  How insecure, discouraged, irritated, stressed, and annoyed were you?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            }
+         ]
+      },
+      {
+         "pId":"page3",
+         "qType":"linearGrid",
+         "qInstructions":"Please rate how much you agree / disagree with the following statements.",
+         "qData":[
+            {
+               "qId":"g7",
+               "qText":"The background made it very difficult to distinguish the target object from other objects.",
+               "qMandatory":"true",
+               "qMin":"1",
+               "qMinLabel":"Strongly disagree",
+               "qMax":"7",
+               "qMaxLabel":"Strongly agree"
+            },
+            {
+               "qId":"g8",
+               "qText":"The background distracted me strongly from the visual search task.",
+               "qMandatory":"true",
+               "qMin":"1",
+               "qMinLabel":"Strongly disagree",
+               "qMax":"7",
+               "qMaxLabel":"Strongly agree"
+            },
+            {
+               "qId":"g9",
+               "qText":"I perceived the number of virtual objects as very overwhelming",
+               "qMandatory":"true",
+               "qMin":"1",
+               "qMinLabel":"Strongly disagree",
+               "qMax":"7",
+               "qMaxLabel":"Strongly agree"
+            }
+         ]
+      }
+   ],
+   "qMessage":"You have completed the questionnaire",
+   "qAcknowledgments":"Thank you very much for taking part in the experiment! We appreciate your time!"
+}
